@@ -1,0 +1,232 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"> 
+<Document>
+<name>J1 VIIRS C2 Russia Asia 24h  VIIRS Hotspots</name>
+<description><![CDATA[ Fires detected by VIIRS during past 24 hours.<br><br>More information: <a href="https://earthdata.nasa.gov/data/nrt-data/firms">https://earthdata.nasa.gov/data/nrt-data/firms</a> ]]></description>
+<Style id="fireIcon1"><IconStyle><scale>1</scale><Icon><href>https://firms.modaps.eosdis.nasa.gov/images/fire.png</href></Icon></IconStyle> 
+<LabelStyle><scale>0</scale></LabelStyle>	</Style>
+<Style id="fireIconHilite"><IconStyle><scale>1</scale><Icon><href>https://firms.modaps.eosdis.nasa.gov/images/fire.png</href></Icon></IconStyle>
+<LabelStyle><scale>0</scale></LabelStyle></Style>
+<StyleMap id="fireIcon"><Pair><key>normal</key><styleUrl>#fireIcon1</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#fireIconHilite</styleUrl></Pair></StyleMap>
+<Folder>
+<name> Fire Points List </name>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  34.87396000,  45.88717000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  34.87633000,  45.89626000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.53939000,  46.53157000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.04641000,  48.39349000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.03315000,  48.39548000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.18635000,  49.01358000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.25806000,  49.05855000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.32837000,  49.08378000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  40.44131000,  51.05015000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  40.50470000,  51.36981000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  37.19855000,  52.35933000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  34.53274000,  46.02294000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  34.53183000,  46.02629000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  34.53437000,  46.02869000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  39.59073000,  46.06942000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  39.59199000,  46.06987000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  33.29200000,  46.22535000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  33.29698000,  46.22607000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  33.28775000,  46.22761000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  33.29102000,  46.22863000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  33.29599000,  46.22935000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  33.29528000,  46.22964000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  31.85027000,  46.46985000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  31.85214000,  46.47035000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  31.85089000,  46.47051000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  31.85379000,  46.47121000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  31.84853000,  46.47153000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  31.85114000,  46.47171000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  31.85294000,  46.47172000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  31.85516000,  46.47170000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.54048000,  46.51970000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.54039000,  46.52198000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.54168000,  46.52534000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.54393000,  46.52501000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.53857000,  46.52668000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.22543000,  46.58252000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.16090000,  46.58975000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.16657000,  46.59045000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.16700000,  46.58961000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.24089000,  46.64548000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.24553000,  46.64568000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  29.94743000,  46.66652000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.16953000,  46.70064000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  31.97685000,  46.70630000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  31.98104000,  46.70746000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.40200000,  46.70919000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.40668000,  46.70938000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.40028000,  46.71083000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.40498000,  46.71104000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.40974000,  46.71125000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.40627000,  46.71469000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.40929000,  46.71656000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.00029000,  46.74646000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.30471000,  46.84572000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.30870000,  46.84683000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  26.02970000,  46.89859000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.57389000,  46.94948000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.56625000,  46.95061000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.48280000,  46.95646000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.48779000,  46.95721000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.58078000,  46.96076000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.58578000,  46.96149000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.57975000,  46.96403000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.58475000,  46.96476000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.57872000,  46.96729000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.58371000,  46.96803000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.58268000,  46.97130000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.68849000,  47.07555000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.78414000,  47.15726000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  32.78468000,  47.15659000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  33.18206000,  47.24599000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  33.18269000,  47.24568000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  33.34077000,  47.36647000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  33.95722000,  47.40780000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  33.96337000,  47.40939000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  33.95480000,  47.41218000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  33.95603000,  47.41458000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  36.24875000,  47.46157000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  36.36463000,  47.47580000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  36.36469000,  47.47709000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  33.52214000,  47.50401000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  33.48407000,  47.52292000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  33.43760000,  47.52574000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  33.44456000,  47.52757000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  33.44485000,  47.52785000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  34.99913000,  47.57656000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  36.10859000,  47.57904000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  34.32366000,  47.62710000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  34.32545000,  47.62864000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  34.32945000,  47.62948000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  34.32347000,  47.63142000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  34.32513000,  47.63055000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  29.01563000,  47.78511000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  29.01596000,  47.78461000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  28.95534000,  47.78905000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  28.95317000,  47.79109000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  39.83176000,  47.81671000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  39.83394000,  47.82090000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  35.14518000,  47.85878000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  35.13915000,  47.86000000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  35.14336000,  47.86127000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  35.14828000,  47.86581000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  33.44601000,  47.86855000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  33.44741000,  47.87191000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  33.44714000,  47.87292000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  33.41328000,  47.87465000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  35.15908000,  47.87512000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  35.15770000,  47.87827000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  37.62100000,  47.87945000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  33.39830000,  47.88105000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  33.51066000,  47.97763000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  37.79839000,  48.03541000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  37.79044000,  48.03852000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  37.95264000,  48.05700000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  37.65072000,  48.05954000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  37.95453000,  48.06086000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  37.69907000,  48.09403000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  37.69814000,  48.09582000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  37.92306000,  48.09802000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  37.63958000,  48.13860000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.95259000,  48.15737000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.95036000,  48.15811000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.94720000,  48.15865000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.94999000,  48.15857000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.94927000,  48.16264000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  31.75831000,  48.28745000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.04498000,  48.39080000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.04240000,  48.39331000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.94558000,  48.44340000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.77211000,  48.45733000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.76874000,  48.46026000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.77086000,  48.45979000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.77055000,  48.46090000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.77055000,  48.46088000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.77422000,  48.46125000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.77397000,  48.46054000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.75827000,  48.46497000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.75719000,  48.46690000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.76040000,  48.46888000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  34.63003000,  48.47341000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  34.63049000,  48.47275000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  34.96847000,  48.47342000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  34.97134000,  48.47559000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.78496000,  48.48082000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.78724000,  48.48330000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.79015000,  48.48401000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.79518000,  48.48436000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.80426000,  48.49253000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.80645000,  48.49643000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  34.63339000,  48.52063000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  34.62759000,  48.52176000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  34.65532000,  48.52753000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  34.64527000,  48.53322000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  34.85635000,  48.57942000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.83699000,  48.58495000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.84238000,  48.58543000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.40660000,  48.62985000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.40002000,  48.63168000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.53276000,  48.73230000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.53542000,  48.73230000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  26.60785000,  48.74904000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  26.60546000,  48.74975000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  37.99563000,  48.75230000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.53622000,  48.78913000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.52816000,  48.79082000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.50347000,  48.91422000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.50236000,  48.91634000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.57075000,  48.92819000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.56993000,  48.93218000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  31.30705000,  48.97937000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.03449000,  48.99122000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.42758000,  49.01256000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.42652000,  49.01400000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.18885000,  49.01669000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.19083000,  49.01744000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.18145000,  49.01836000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.18312000,  49.01760000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.18966000,  49.01895000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.30001000,  49.04167000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.30650000,  49.04300000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.25921000,  49.05298000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.25746000,  49.05367000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.26394000,  49.05502000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.25946000,  49.05595000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.26079000,  49.05589000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.25575000,  49.05725000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.25750000,  49.05657000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.25937000,  49.05841000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.26398000,  49.05790000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.26379000,  49.05766000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.26222000,  49.05860000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.26221000,  49.05889000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.33072000,  49.08570000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  31.82513000,  49.19381000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  31.82799000,  49.19395000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  31.82774000,  49.19639000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.52369000,  49.34785000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  33.19270000,  49.63107000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  36.74659000,  49.65206000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  36.74848000,  49.65282000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  39.68513000,  50.14695000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  39.68741000,  50.14875000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  39.68201000,  50.15002000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  31.41209000,  50.31775000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  39.63335000,  50.37954000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  26.25719000,  50.54459000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  36.55240000,  50.61233000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  36.60186000,  50.61377000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  37.94360000,  51.15467000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  37.94560000,  51.15825000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.03004000,  51.24763000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  38.03171000,  51.24962000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  37.76701000,  51.25539000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  37.76371000,  51.25712000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  37.76421000,  51.25739000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  37.76381000,  51.26038000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  37.76566000,  51.26068000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  40.25346000,  51.45252000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon</styleUrl><description> 	</description><Point><coordinates>  29.33662000,  51.89111000</coordinates></Point></Placemark>
+</Folder>
+</Document></kml>
