@@ -621,7 +621,6 @@
 
 
 
-<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       51.303 <br> Longitude :       30.754<br>Date Acquired : 2022-06-16 <br>Time: 09:20 UTC<br>Confidence [0-100] : 23<br>Satellite : T <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  30.75407000,  51.30324000</coordinates></Point></Placemark>
 
 
 
@@ -665,10 +664,6 @@
 
 
 
-<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       46.638 <br> Longitude :       32.126<br>Date Acquired : 2022-06-16 <br>Time: 11:04 UTC<br>Confidence [0-100] : 79<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  32.12602000,  46.63842000</coordinates></Point></Placemark>
-<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       46.648 <br> Longitude :       32.124<br>Date Acquired : 2022-06-16 <br>Time: 11:04 UTC<br>Confidence [0-100] : 55<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  32.12357000,  46.64754000</coordinates></Point></Placemark>
-<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       47.471 <br> Longitude :       35.310<br>Date Acquired : 2022-06-16 <br>Time: 11:04 UTC<br>Confidence [0-100] : 44<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  35.31014000,  47.47113000</coordinates></Point></Placemark>
-<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       47.664 <br> Longitude :       26.267<br>Date Acquired : 2022-06-16 <br>Time: 11:04 UTC<br>Confidence [0-100] : 47<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  26.26728000,  47.66427000</coordinates></Point></Placemark>
 
 
 
@@ -741,6 +736,8 @@
 
 
 
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       52.161 <br> Longitude :       34.154<br>Date Acquired : 2022-06-18 <br>Time: 09:07 UTC<br>Confidence [0-100] : 35<br>Satellite : T <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  34.15391000,  52.16091000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       52.124 <br> Longitude :       31.820<br>Date Acquired : 2022-06-18 <br>Time: 09:07 UTC<br>Confidence [0-100] : 35<br>Satellite : T <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  31.82033000,  52.12353000</coordinates></Point></Placemark>
 
 
 
@@ -769,6 +766,9 @@
 
 
 
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       46.501 <br> Longitude :       31.849<br>Date Acquired : 2022-06-18 <br>Time: 10:49 UTC<br>Confidence [0-100] : 35<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  31.84921000,  46.50112000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       49.481 <br> Longitude :       36.729<br>Date Acquired : 2022-06-18 <br>Time: 10:51 UTC<br>Confidence [0-100] : 71<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  36.72933000,  49.48118000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       52.328 <br> Longitude :       34.841<br>Date Acquired : 2022-06-18 <br>Time: 10:51 UTC<br>Confidence [0-100] : 20<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  34.84134000,  52.32790000</coordinates></Point></Placemark>
 
 
 
@@ -878,10 +878,6 @@
 
 
 
-<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       48.159 <br> Longitude :       38.952<br>Date Acquired : 2022-06-16 <br>Time: 18:51 UTC<br>Confidence [0-100] : 100<br>Satellite : T <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  38.95182000,  48.15915000</coordinates></Point></Placemark>
-<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       48.156 <br> Longitude :       38.936<br>Date Acquired : 2022-06-16 <br>Time: 18:51 UTC<br>Confidence [0-100] : 100<br>Satellite : T <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  38.93637000,  48.15638000</coordinates></Point></Placemark>
-<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       49.021 <br> Longitude :       38.179<br>Date Acquired : 2022-06-16 <br>Time: 18:51 UTC<br>Confidence [0-100] : 28<br>Satellite : T <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  38.17896000,  49.02089000</coordinates></Point></Placemark>
-<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       51.455 <br> Longitude :       40.256<br>Date Acquired : 2022-06-16 <br>Time: 18:51 UTC<br>Confidence [0-100] : 73<br>Satellite : T <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  40.25559000,  51.45470000</coordinates></Point></Placemark>
 
 
 
@@ -1035,7 +1031,6 @@
 
 
 
-<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       46.532 <br> Longitude :       32.539<br>Date Acquired : 2022-06-17 <br>Time: 00:37 UTC<br>Confidence [0-100] : 79<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  32.53939000,  46.53157000</coordinates></Point></Placemark>
 
 
 
@@ -1066,6 +1061,7 @@
 
 
 
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       49.556 <br> Longitude :       36.633<br>Date Acquired : 2022-06-18 <br>Time: 18:38 UTC<br>Confidence [0-100] : 66<br>Satellite : T <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  36.63313000,  49.55556000</coordinates></Point></Placemark>
 
 
 
@@ -1082,6 +1078,9 @@
 
 
 
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       48.822 <br> Longitude :       35.265<br>Date Acquired : 2022-06-18 <br>Time: 20:17 UTC<br>Confidence [0-100] : 63<br>Satellite : T <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  35.26493000,  48.82206000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       48.811 <br> Longitude :       35.258<br>Date Acquired : 2022-06-18 <br>Time: 20:17 UTC<br>Confidence [0-100] : 39<br>Satellite : T <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  35.25793000,  48.81059000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       49.551 <br> Longitude :       36.611<br>Date Acquired : 2022-06-18 <br>Time: 20:17 UTC<br>Confidence [0-100] : 32<br>Satellite : T <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  36.61092000,  49.55121000</coordinates></Point></Placemark>
 
 
 
@@ -1242,6 +1241,11 @@
 
 
 
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       49.553 <br> Longitude :       36.638<br>Date Acquired : 2022-06-19 <br>Time: 00:24 UTC<br>Confidence [0-100] : 64<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  36.63758000,  49.55317000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       48.822 <br> Longitude :       35.282<br>Date Acquired : 2022-06-19 <br>Time: 00:24 UTC<br>Confidence [0-100] : 100<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  35.28180000,  48.82193000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       48.817 <br> Longitude :       35.303<br>Date Acquired : 2022-06-19 <br>Time: 00:24 UTC<br>Confidence [0-100] : 78<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  35.30311000,  48.81730000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       48.822 <br> Longitude :       35.277<br>Date Acquired : 2022-06-19 <br>Time: 00:24 UTC<br>Confidence [0-100] : 86<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  35.27723000,  48.82230000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       48.818 <br> Longitude :       35.298<br>Date Acquired : 2022-06-19 <br>Time: 00:24 UTC<br>Confidence [0-100] : 97<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  35.29850000,  48.81779000</coordinates></Point></Placemark>
 
 
 
@@ -1642,10 +1646,6 @@
 
 
 
-<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       49.059 <br> Longitude :       38.258<br>Date Acquired : 2022-06-17 <br>Time: 08:24 UTC<br>Confidence [0-100] : 88<br>Satellite : T <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  38.25806000,  49.05855000</coordinates></Point></Placemark>
-<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       49.014 <br> Longitude :       38.186<br>Date Acquired : 2022-06-17 <br>Time: 08:24 UTC<br>Confidence [0-100] : 56<br>Satellite : T <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  38.18635000,  49.01358000</coordinates></Point></Placemark>
-<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       48.395 <br> Longitude :       38.033<br>Date Acquired : 2022-06-17 <br>Time: 08:24 UTC<br>Confidence [0-100] : 48<br>Satellite : T <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  38.03315000,  48.39548000</coordinates></Point></Placemark>
-<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       48.393 <br> Longitude :       38.046<br>Date Acquired : 2022-06-17 <br>Time: 08:24 UTC<br>Confidence [0-100] : 66<br>Satellite : T <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  38.04641000,  48.39349000</coordinates></Point></Placemark>
 
 
 
@@ -1658,8 +1658,6 @@
 
 
 
-<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       45.896 <br> Longitude :       34.876<br>Date Acquired : 2022-06-17 <br>Time: 08:24 UTC<br>Confidence [0-100] : 66<br>Satellite : T <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  34.87633000,  45.89626000</coordinates></Point></Placemark>
-<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       45.887 <br> Longitude :       34.874<br>Date Acquired : 2022-06-17 <br>Time: 08:24 UTC<br>Confidence [0-100] : 75<br>Satellite : T <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  34.87396000,  45.88717000</coordinates></Point></Placemark>
 
 
 
@@ -1729,12 +1727,8 @@
 
 
 
-<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       49.084 <br> Longitude :       38.328<br>Date Acquired : 2022-06-17 <br>Time: 10:09 UTC<br>Confidence [0-100] : 46<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  38.32837000,  49.08378000</coordinates></Point></Placemark>
-<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       51.050 <br> Longitude :       40.441<br>Date Acquired : 2022-06-17 <br>Time: 10:09 UTC<br>Confidence [0-100] : 12<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  40.44131000,  51.05015000</coordinates></Point></Placemark>
-<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       51.370 <br> Longitude :       40.505<br>Date Acquired : 2022-06-17 <br>Time: 10:09 UTC<br>Confidence [0-100] : 19<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  40.50470000,  51.36981000</coordinates></Point></Placemark>
 
 
-<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       52.359 <br> Longitude :       37.199<br>Date Acquired : 2022-06-17 <br>Time: 10:09 UTC<br>Confidence [0-100] : 32<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  37.19855000,  52.35933000</coordinates></Point></Placemark>
 
 
 
@@ -1867,6 +1861,190 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       52.151 <br> Longitude :       34.697<br>Date Acquired : 2022-06-19 <br>Time: 08:11 UTC<br>Confidence [0-100] : 49<br>Satellite : T <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  34.69730000,  52.15051000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       49.043 <br> Longitude :       38.302<br>Date Acquired : 2022-06-19 <br>Time: 08:11 UTC<br>Confidence [0-100] : 43<br>Satellite : T <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  38.30246000,  49.04266000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       48.457 <br> Longitude :       38.774<br>Date Acquired : 2022-06-19 <br>Time: 08:11 UTC<br>Confidence [0-100] : 48<br>Satellite : T <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  38.77446000,  48.45693000</coordinates></Point></Placemark>
+
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       48.068 <br> Longitude :       37.607<br>Date Acquired : 2022-06-19 <br>Time: 08:11 UTC<br>Confidence [0-100] : 73<br>Satellite : T <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  37.60699000,  48.06793000</coordinates></Point></Placemark>
+
+
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       45.886 <br> Longitude :       40.000<br>Date Acquired : 2022-06-19 <br>Time: 08:13 UTC<br>Confidence [0-100] : 56<br>Satellite : T <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  39.99955000,  45.88562000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       45.884 <br> Longitude :       40.012<br>Date Acquired : 2022-06-19 <br>Time: 08:13 UTC<br>Confidence [0-100] : 79<br>Satellite : T <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  40.01222000,  45.88374000</coordinates></Point></Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       48.007 <br> Longitude :       37.377<br>Date Acquired : 2022-06-19 <br>Time: 09:54 UTC<br>Confidence [0-100] : 48<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  37.37656000,  48.00697000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       46.642 <br> Longitude :       32.058<br>Date Acquired : 2022-06-19 <br>Time: 09:54 UTC<br>Confidence [0-100] : 0<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  32.05759000,  46.64188000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       47.996 <br> Longitude :       37.375<br>Date Acquired : 2022-06-19 <br>Time: 09:54 UTC<br>Confidence [0-100] : 66<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  37.37542000,  47.99618000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       48.600 <br> Longitude :       38.860<br>Date Acquired : 2022-06-19 <br>Time: 09:54 UTC<br>Confidence [0-100] : 23<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  38.86038000,  48.59988000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       48.513 <br> Longitude :       38.147<br>Date Acquired : 2022-06-19 <br>Time: 09:54 UTC<br>Confidence [0-100] : 51<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  38.14665000,  48.51318000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       48.817 <br> Longitude :       38.332<br>Date Acquired : 2022-06-19 <br>Time: 09:54 UTC<br>Confidence [0-100] : 41<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  38.33213000,  48.81716000</coordinates></Point></Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       51.099 <br> Longitude :       28.904<br>Date Acquired : 2022-06-19 <br>Time: 09:49 UTC<br>Confidence [0-100] : 55<br>Satellite : T <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  28.90405000,  51.09937000</coordinates></Point></Placemark>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       48.363 <br> Longitude :       26.080<br>Date Acquired : 2022-06-19 <br>Time: 11:34 UTC<br>Confidence [0-100] : 62<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  26.07954000,  48.36339000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       51.102 <br> Longitude :       28.885<br>Date Acquired : 2022-06-19 <br>Time: 11:34 UTC<br>Confidence [0-100] : 62<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  28.88543000,  51.10230000</coordinates></Point></Placemark>
+<Placemark><name>MODIS FIRE</name><styleUrl>#fireIcon</styleUrl><description> <![CDATA[ Latitude :       51.096 <br> Longitude :       28.881<br>Date Acquired : 2022-06-19 <br>Time: 11:34 UTC<br>Confidence [0-100] : 56<br>Satellite : A <br><br>For more information, visit <br><a href='https://earthdata.nasa.gov/data/nrt-data/firms'>https://earthdata.nasa.gov/data/nrt-data/firms</a> and <a href="https://earthdata.nasa.gov/faq/firms-faq">https://earthdata.nasa.gov/faq/firms-faq </a><br><br>To subscribe to fire email alerts, visit <a href='https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts'>https://earthdata.nasa.gov/data/nrt-data/firms/email-alerts/</a> <br><br>&bull; <a href='https://earthdata.nasa.gov/data/nrt-data/disclaimer'>FIRMS Disclaimer</a><br><br> ]]></description><Point><coordinates>  28.88140000,  51.09644000</coordinates></Point></Placemark>
 
 
 

@@ -1,0 +1,18 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"> 
+<Document>
+<name>J1 VIIRS C2 Russia Asia 24h  VIIRS Hotspots</name>
+<description><![CDATA[ Fires detected by VIIRS during past 24 hours.<br><br>More information: <a href="https://earthdata.nasa.gov/data/nrt-data/firms">https://earthdata.nasa.gov/data/nrt-data/firms</a> ]]></description>
+<Style id="fireIcon1"><IconStyle><scale>1</scale><Icon><href>https://firms.modaps.eosdis.nasa.gov/images/fire.png</href></Icon></IconStyle> 
+<LabelStyle><scale>0</scale></LabelStyle>	</Style>
+<Style id="fireIconHilite1"><IconStyle><scale>1</scale><Icon><href>https://firms.modaps.eosdis.nasa.gov/images/fire.png</href></Icon></IconStyle>
+<LabelStyle><scale>0</scale></LabelStyle></Style>
+<Style id="fireIcon2"><IconStyle><scale>.5</scale><Icon><href>http://stats.aperpetua.com/src/images/fire.png</href></Icon></IconStyle> 
+<LabelStyle><scale>0</scale></LabelStyle>	</Style>
+<Style id="fireIconHilite2"><IconStyle><scale>.5</scale><Icon><href>http://stats.aperpetua.com/src/images/fire.png</href></Icon></IconStyle>
+<LabelStyle><scale>0</scale></LabelStyle></Style>
+<StyleMap id="fireIcon1"><Pair><key>normal</key><styleUrl>#fireIcon1</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#fireIconHilite1</styleUrl></Pair></StyleMap>
+<StyleMap id="fireIcon2"><Pair><key>normal</key><styleUrl>#fireIcon2</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#fireIconHilite2</styleUrl></Pair></StyleMap>
+<Folder>
+<name> 6/18 </name>
+</Folder>
+</Document></kml>
