@@ -13,6 +13,85 @@
 <StyleMap id="fireIcon1"><Pair><key>normal</key><styleUrl>#fireIcon1</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#fireIconHilite1</styleUrl></Pair></StyleMap>
 <StyleMap id="fireIcon2"><Pair><key>normal</key><styleUrl>#fireIcon2</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#fireIconHilite2</styleUrl></Pair></StyleMap>
 <Folder>
-<name> 6/18 </name>
+<name> 6/25 </name>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  29.34036000,  51.89069000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  33.41513000,  47.87366000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  33.43018000,  47.86721000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  33.52098000,  47.52044000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  34.35637000,  47.62619000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  35.13964000,  47.85925000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  35.14726000,  47.86153000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  35.15969000,  47.87435000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  35.16418000,  47.86959000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  35.18882000,  47.87994000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  35.22953000,  47.82160000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  36.36465000,  47.47670000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  36.74722000,  49.65207000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  38.30356000,  48.84698000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  38.35577000,  48.80473000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  38.41301000,  48.83904000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  38.41755000,  48.80327000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  38.42778000,  48.87431000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  38.43838000,  48.83338000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  38.47548000,  48.89714000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  38.54134000,  48.88792000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  38.66483000,  48.80646000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  38.75366000,  48.46558000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  38.77591000,  48.46526000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  39.56326000,  49.66902000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  26.09986000,  50.84360000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  26.38080000,  50.06304000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  26.60318000,  48.75146000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  28.95474000,  47.78868000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  30.70434000,  51.04599000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  30.90495000,  51.24224000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  33.51523000,  47.52233000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  34.32462000,  47.62730000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  35.14106000,  47.85953000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  35.15519000,  47.87500000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  35.18941000,  47.88029000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  35.87209000,  52.12395000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  36.60541000,  50.61526000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  37.06569000,  49.53399000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  37.23816000,  51.59330000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  37.27115000,  49.21973000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  37.90353000,  48.58009000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  37.93297000,  51.14075000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  37.95282000,  48.06204000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  37.95697000,  48.05711000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  37.97449000,  48.75044000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.02110000,  48.61538000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.12868000,  48.96616000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.15781000,  48.52225000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.18111000,  48.81532000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.24687000,  48.22332000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.29852000,  49.05196000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.30225000,  49.05856000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.31281000,  48.07921000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.35582000,  48.80219000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.41023000,  48.81783000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.41436000,  48.80107000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.46143000,  51.75514000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.49350000,  48.92744000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.57167000,  48.89862000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.60435000,  48.93817000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.63945000,  48.99182000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.66032000,  48.80497000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.66408000,  48.79573000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.66482000,  48.80301000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.67334000,  48.80541000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.67360000,  48.77875000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.75258000,  48.46094000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.76416000,  48.47504000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.77120000,  48.47789000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.77143000,  48.85386000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.78366000,  48.87022000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.78523000,  48.48357000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.80045000,  48.49366000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  38.80183000,  48.91325000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  39.56135000,  49.66855000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon2</styleUrl><description>	2022-06-24	</description><Point><coordinates>  39.57221000,  51.88698000</coordinates></Point></Placemark>
+<Placemark><name>Fire</name><styleUrl>#fireIcon1</styleUrl><description>	2022-06-25	</description><Point><coordinates>  32.78863000,  47.15631000</coordinates></Point></Placemark>
+
 </Folder>
 </Document></kml>
