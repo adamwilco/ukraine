@@ -13,6 +13,8 @@
 <StyleMap id="fireIcon1"><Pair><key>normal</key><styleUrl>#fireIcon1</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#fireIconHilite1</styleUrl></Pair></StyleMap>
 <StyleMap id="fireIcon2"><Pair><key>normal</key><styleUrl>#fireIcon2</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#fireIconHilite2</styleUrl></Pair></StyleMap>
 <Folder>
-<name> 6/18 </name>
+<name> FIRMS </name>
+
+
 </Folder>
 </Document></kml>
