@@ -23,411 +23,676 @@
 <StyleMap id="artyIcon1"><Pair><key>normal</key><styleUrl>#artyIcon1</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#artyIconHilite1</styleUrl></Pair></StyleMap>
 <StyleMap id="artyIcon2"><Pair><key>normal</key><styleUrl>#artyIcon2</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#artyIconHilite2</styleUrl></Pair></StyleMap>
 <Folder>
-<name> 8/6 </name>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.0849163, 47.1741641	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.1159124, 47.15494	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.124902, 47.1730262	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.1474981, 47.1381278	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.37576, 47.34308	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.4615812, 47.4213213	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.4657011, 47.4073819	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.5949152, 47.4186871	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.5968504, 47.4227151	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.6541853, 47.4062201	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.7128934, 47.4018051	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.7228498, 47.3841414	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.74109, 47.4166	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.7884245, 47.4041289	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.7928876, 47.4122611	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.8062772, 47.3911146	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.8272199, 47.379957	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.8440427, 47.35903	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.8557157, 47.3453068	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	35.2873711, 47.4644476	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	35.3031639, 47.4435542	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	35.3313164, 47.3924466	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	35.3635887, 47.444483	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	35.3663353, 47.3901223	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.1392936, 50.3316973	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.1423835, 50.3755085	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.1598929, 50.3551413	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.1708793, 50.2858713	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.1708793, 50.3259988	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.1815223, 50.3176691	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.1949119, 50.3468167	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.1952552, 50.2678797	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.2103614, 50.2687575	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.2256387, 47.4737732	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.232652, 50.2503372	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.250358, 47.4482402	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.25465, 50.2838969	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.2560233, 50.2724879	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.2936166, 47.486767	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.366401, 47.452187	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.3970135, 50.1497446	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.4121197, 50.1607431	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.416116, 50.170383	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.4334057, 50.1783355	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.5126847, 50.1728386	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.5188645, 50.1592035	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.5401505, 50.1710794	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.5408372, 50.209546	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.5562867, 50.1939433	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.5813778, 50.211084	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.8389418, 49.4539535	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.863661, 50.0268206	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.8870303, 49.7120313	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.88983, 50.032412	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.8911268, 49.4673424	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.9089796, 49.6575157	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.0078566, 49.6575157	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.0962975, 49.1257394	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.1107752, 49.1057195	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.2233205, 49.1037293	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.2246166, 47.6982982	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.2390361, 47.7114674	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.2618373, 49.0688449	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.2651829, 49.2158624	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.2754826, 49.1624592	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.2796025, 49.1267501	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.2899021, 49.1929824	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.2996028, 49.0733433	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.3050137, 49.173878	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.3301585, 49.0440966	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.3434605, 49.0941628	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.3473246, 49.0184354	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.4228883, 49.0248047	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.4376185, 49.0256399	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.4475749, 49.0161838	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.4582179, 49.0249645	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.5191513, 47.9325485	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.5351158, 47.9407138	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.5364825, 47.9280112	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.5596634, 47.9220811	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.677441, 48.061436	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.6854534, 48.0619874	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.6930027, 48.0495538	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.7057057, 48.0676817	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.7245884, 48.0759404	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.7396946, 48.0777754	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.7469228, 48.2369303	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.7702504, 48.0897019	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.7705937, 48.1002499	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.7729187, 48.2171712	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.77786, 47.89059	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.78341, 47.89161	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.78531, 48.02836	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.7891331, 48.097957	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.7901815, 48.207652	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.7991079, 48.1801885	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.8059743, 48.1641613	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.8190022, 48.1348597	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.8564244, 48.1204227	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.8588873, 48.2649936	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.8612996, 48.282739	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.8653508, 48.1369218	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.8715306, 48.1213394	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.87622, 48.09079	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.87761, 48.08743	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.9179388, 48.2978936	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.92851, 48.10071	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.9371649, 48.3403579	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.941248, 48.29947	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.9599111, 48.368918	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.9838568, 48.3211848	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.99793, 48.379153	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.0769412, 48.4383743	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1010168, 48.6021638	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1034201, 48.4222608	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1037634, 48.5394636	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1068533, 48.5540097	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1106298, 48.6160109	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1154364, 48.6452817	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1205517, 48.6856161	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1215817, 48.6677069	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1329458, 48.4386627	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1332547, 48.6919621	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1353146, 48.6699742	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.136379, 48.6364342	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1364596, 48.4191999	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1376495, 48.5219692	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1391256, 48.506947	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1391293, 48.5984401	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1463354, 48.5585545	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1463354, 48.6257697	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.175689, 48.706252	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1830365, 48.7177913	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1916196, 48.698534	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1934138, 48.5974414	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1950528, 48.6674802	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.224992, 48.7696976	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.2316726, 48.7588174	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.2373517, 48.9237833	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.2517712, 48.9346102	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.257951, 48.7687925	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.2687598, 48.8058935	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.2751172, 48.7891539	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.2782169, 48.8519186	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.2915966, 48.8926429	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.307897, 48.8450756	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	31.9885257, 46.731715	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.0022586, 46.7190063	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.0502, 46.97987	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.0563903, 46.93318	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.098087, 46.764428	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.1306613, 46.7524191	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.1533206, 46.7340681	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.228165, 46.8191825	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.259064, 46.7858111	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.3098758, 46.8055544	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.310674, 46.783805	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.4602512, 46.9986088	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.46672, 47.03656	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.47816, 47.03933	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.4839404, 46.9983747	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.5247958, 47.0592197	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.5337222, 47.0208486	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.5385288, 47.0395696	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.5550083, 47.060623	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.5634546, 52.294952	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.6422975, 52.245121	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.6634982, 47.0854085	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.681351, 47.0896162	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.7110242, 52.2208046	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.052191, 47.1744191	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.0755369, 47.1835201	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.0803434, 47.1926196	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.0811437, 47.2824815	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.0909864, 47.2175769	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.1065068, 47.2165416	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.1253548, 47.197097	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.1486647, 47.1979852	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.213237, 52.312673	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.287255, 52.305326	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.6309478, 47.4539634	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.6421199, 47.5718898	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.854712, 52.2759521	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.8747069, 47.4191296	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.9131591, 47.41216	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	34.3933101, 47.5867119	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.22953, 47.82388	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.41683, 47.723	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.4609122, 47.529022	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.8287217, 47.5054063	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.8352449, 47.5265069	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.8743833, 47.5371708	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.01001, 47.79129	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.02133, 50.27431	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.02138, 50.27664	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.03064, 47.7423	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.0466874, 47.5524321	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.064065, 50.308366	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.06441, 50.32744	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.06911, 50.32767	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.0693926, 50.3824368	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.0739973, 47.5632471	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.08065, 50.33236	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.0886187, 50.4014793	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.1318774, 50.3392893	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.134624, 50.3682046	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.1475612, 47.6168809	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.1633783, 50.2345003	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.165969, 50.2598454	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.166314, 50.2657474	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.1736534, 47.64418	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.1783303, 50.2718919	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.18085, 47.92333	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.1922174, 50.2061628	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.2114228, 50.2549349	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.2233868, 50.2385658	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.2353172, 50.2351894	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.2494385, 49.9544912	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.2708868, 50.1425422	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.2775506, 50.1756832	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.2858307, 49.9584671	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.2878502, 50.205577	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.2949193, 50.1388016	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.2991799, 50.1882145	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.3153161, 50.203819	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.3208092, 50.1930502	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.3535515, 47.6401773	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.387499, 50.105874	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.3906302, 47.6434147	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.3911331, 50.0814103	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.4034928, 50.1289736	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.4268387, 50.1426173	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.46052, 48.05442	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.463712, 50.128189	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.5229691, 50.1232509	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.564332, 50.111959	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.6129455, 47.8077292	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.6258207, 47.8265168	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.6764069, 47.8424898	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.6767361, 49.8329629	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.6769996, 49.8136648	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.6885967, 47.8702421	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.7127052, 49.7928357	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.746774, 49.6479213	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.7557004, 49.6256867	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.7623176, 49.5077922	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.7722214, 50.1412971	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.783551, 50.1393168	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.7900327, 49.7527318	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.7900742, 50.0906624	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.7921341, 50.0743599	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.8024338, 50.1421772	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.8082347, 47.8152813	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.8113187, 49.7673694	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.813387, 50.152275	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.8160013, 47.8113187	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.8174958, 47.8381666	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.8196701, 49.3684656	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.8198991, 47.8229548	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.833724, 49.354231	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.842779, 47.829138	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.8999232, 49.1066144	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.909577, 49.25702	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.9104591, 49.795052	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.917776, 49.1180757	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.9217858, 49.2371709	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.923791, 49.865176	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.928096, 49.328593	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.9297497, 49.3135332	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.9447914, 49.8743281	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.9846168, 49.8216395	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.9995572, 49.1096459	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.0079627, 49.8300558	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.0105436, 49.0871664	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.01741, 49.1132416	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.0668485, 49.0165147	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.0789962, 48.9878521	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.0798948, 49.0318236	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.1073606, 49.0651266	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.1409013, 47.7315048	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.1430662, 49.0606275	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.158409, 47.7218115	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.1725919, 49.0435272	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.190497, 49.029454	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.2051026, 47.7437421	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.2267321, 47.7271193	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.2294786, 47.7536684	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.2362566, 49.0361456	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.2545855, 49.0254652	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.2572877, 47.7797448	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.260614, 49.0029446	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.2627793, 47.7589786	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.26462, 47.92791	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.2719436, 48.9930336	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.2903516, 49.0147133	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.2930982, 49.0201172	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.321594, 49.0005254	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.3533244, 49.0003375	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.355469, 48.994321	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.3842287, 48.9805206	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.406888, 48.9841257	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.4206209, 48.9917857	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.4299679, 49.000443	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.4422502, 48.9947143	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.4504705, 48.9515901	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.460103, 48.9938132	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.4672577, 48.9733645	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.4748659, 48.9814219	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.484329, 49.0079577	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.485123, 47.8457411	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.4898221, 49.0205675	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.4939171, 47.9511774	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.4973503, 47.9380688	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.4977186, 49.0124616	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.4983803, 47.929673	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.5042471, 47.9425064	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.5318149, 47.8438978	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.5436327, 48.0984584	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.56106, 48.103385	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.5828125, 48.0997144	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.5849319, 48.9684754	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.5863052, 48.9472849	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.587578, 48.0525801	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.5910113, 48.0319216	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.606218, 48.9693769	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.6209213, 48.0832033	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.6247574, 48.9427752	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.6274035, 48.030544	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.63221, 48.0158481	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.6429295, 48.0720292	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.6473921, 48.5455079	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.6486895, 48.1399429	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.6590651, 48.5400527	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.6613924, 48.0736892	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.6654171, 48.0719145	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.6654721, 48.1248198	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.6688091, 48.0649605	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.6703188, 48.0945603	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.6751, 48.06717	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.6805233, 48.0684733	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.687485, 48.0849285	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.6885909, 48.5345969	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.7050704, 48.512313	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.7134752, 48.0830316	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.7214337, 48.0945603	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.7262865, 48.2118851	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.7358935, 48.1511678	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.7368832, 48.0851579	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.7407, 48.2161778	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.7530596, 48.2134326	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.7558062, 48.1305488	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.761986, 48.1887189	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.7643893, 48.1037317	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.7657445, 48.107238	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.7671358, 48.121153	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.77706, 48.104578	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.7911684, 48.1129015	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.8124106, 48.3167674	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.8151571, 48.3335457	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.8398764, 48.3135709	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.8424513, 48.304437	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.842623, 48.3335457	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.8510824, 48.3885237	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.8610388, 48.3798592	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.8718136, 48.3950648	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.9042975, 48.3871557	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.9084173, 48.3565947	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.9161022, 48.3998518	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.9578558, 48.3871557	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.9722754, 48.3935392	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.9893416, 48.5807254	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.9948348, 48.6004818	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0092543, 48.5652782	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0321503, 48.5492098	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0379868, 48.5544368	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0503665, 48.7274665	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0513965, 48.7428641	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0537146, 48.5976437	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.05516, 48.49915	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.05528, 48.6871528	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0622977, 48.6020711	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0674196, 48.5202063	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0709485, 48.4895317	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0873323, 48.5120191	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.1007724, 48.514889	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.1023799, 48.6557377	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.1039249, 48.6634481	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.1041842, 48.6445849	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.10843, 48.67316	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.110364, 48.6291572	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.1145233, 48.5228185	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.1883823, 48.7295047	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.1922692, 48.8145543	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.1953591, 48.8285691	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.2021152, 48.7190864	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.2048618, 48.7550883	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.2100116, 48.7267871	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.2118386, 48.8093542	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.2165463, 48.7841952	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.222825, 48.8240486	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.2296914, 48.7914891	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.241381, 48.786296	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.2416089, 48.8088465	</coordinates></Point></Placemark>
-<Placemark><name>Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.2477887, 48.8018368	</coordinates></Point></Placemark>
+<name> 8/12 </name>
+
+<Placemark>
+  <name>Russian Attack, Repelled</name>
+  <description>It led an offensive in the direction of the settlements of Verkhnokamianske and Ivano-Daryivka, was unsuccessful, and withdrew.</description>
+  <LineString>
+    <coordinates>
+      38.2554490, 48.8653562, 0 38.2315881, 48.8669372, 0 38.2171685, 48.8583544, 0 38.2315881, 48.8507869, 0 38.2597405, 48.8554179, 0 38.2470376, 48.8490925, 0 38.2597405, 48.8554179, 0 38.2448060, 48.8588344, 0 38.2597405, 48.8554179, 0
+    </coordinates>
+  </LineString>
+  <Style> 
+    <LineStyle>  
+      <color>#a52714</color>
+      <width>7</width>
+    </LineStyle> 
+  </Style>
+</Placemark>
+  
+<Placemark>
+  <name>Russian Attack, Repelled</name>
+  <description>It led an offensive in the direction of the settlements of Verkhnokamianske and Ivano-Daryivka, was unsuccessful, and withdrew. The enemy waged offensive battles in the direction of the settlements of Ivano-Daryivka, Vyimka, Bakhmut, Vesela Dolyna and Kodema, was unsuccessful, and retreated. After regrouping, it resumed the attack on Codema, the hostilities continue.</description>
+  <LineString>
+    <coordinates>
+      38.1929130, 48.7792733, 0 38.1898231, 48.7995173, 0 38.2006377, 48.8099190, 0 38.2133407, 48.7994042, 0 38.2117957, 48.7790470, 0 38.2045859, 48.7891136, 0 38.2117957, 48.7790470, 0 38.2196921, 48.7891136, 0 38.2117957, 48.7790470, 0
+    </coordinates>
+  </LineString>
+  <Style> 
+    <LineStyle>  
+      <color>#a52714</color>
+      <width>7</width>
+    </LineStyle> 
+  </Style>
+</Placemark>
+
+<Placemark>
+  <name>Russian Attack</name>
+  <description>As a result of the offensive in the direction of Horlivka - Zaitseve, the enemy was partially successful.</description>
+  <LineString>
+    <coordinates>
+      38.0312572, 48.3926071, 0 38.0326306, 48.4258815, 0 38.0413856, 48.4142607, 0 38.0326306, 48.4258815, 0 38.0226738, 48.4142607, 0 38.0326306, 48.4258815, 0
+    </coordinates>
+  </LineString>
+  <Style> 
+    <LineStyle>  
+      <color>#a52714</color>
+      <width>7</width>
+    </LineStyle> 
+  </Style>
+</Placemark>
+
+<Placemark>
+  <name>Russian Attack, Repelled</name>
+  <description>The enemy waged offensive battles in the direction of the settlements of Ivano-Daryivka, Vyimka, Bakhmut, Vesela Dolyna and Kodema, was unsuccessful, and retreated. After regrouping, it resumed the attack on Codema, the hostilities continue.</description>
+  <LineString>
+    <coordinates>
+      38.1898480, 48.7795130, 0 38.1774883, 48.7939900, 0 38.1572460, 48.7969600, 0 38.1570607, 48.7829064, 0 38.1778317, 48.7719336, 0 38.1730251, 48.7814926, 0 38.1778317, 48.7719336, 0 38.1622105, 48.7732912, 0 38.1778317, 48.7719336, 0
+    </coordinates>
+  </LineString>
+  <Style> 
+    <LineStyle>  
+      <color>#a52714</color>
+      <width>7</width>
+    </LineStyle> 
+  </Style>
+</Placemark>
+
+<Placemark>
+  <name>Russian Attack</name>
+  <description>The enemy waged offensive battles in the direction of the settlements of Ivano-Daryivka, Vyimka, Bakhmut, Vesela Dolyna and Kodema, was unsuccessful, and retreated. After regrouping, it resumed the attack on Codema, the hostilities continue.</description>
+  <LineString>
+    <coordinates>
+      38.1190505, 48.5439603, 0 38.0819717, 48.5481651, 0 38.0977645, 48.5512901, 0 38.0819717, 48.5481651, 0 38.0957046, 48.5415737, 0 38.0819717, 48.5481651, 0
+    </coordinates>
+  </LineString>
+  <Style> 
+    <LineStyle>  
+      <color>#a52714</color>
+      <width>7</width>
+    </LineStyle> 
+  </Style>
+</Placemark>
+
+<Placemark>
+  <name>Russian Attack</name>
+  <description>The enemy waged offensive battles in the direction of the settlements of Ivano-Daryivka, Vyimka, Bakhmut, Vesela Dolyna and Kodema, was unsuccessful, and retreated. After regrouping, it resumed the attack on Codema, the hostilities continue.</description>
+  <LineString>
+    <coordinates>
+      38.0862632, 48.6091236, 0 38.0459852, 48.5974588, 0 38.0549779, 48.6056050, 0 38.0459852, 48.5974588, 0 38.0610290, 48.5964099, 0 38.0459852, 48.5974588, 0
+    </coordinates>
+  </LineString>
+  <Style> 
+    <LineStyle>  
+      <color>#a52714</color>
+      <width>7</width>
+    </LineStyle> 
+  </Style>
+</Placemark>
+
+<Placemark>
+  <name>Russian Attack</name>
+  <description>The enemy waged offensive battles in the direction of the settlements of Ivano-Daryivka, Vyimka, Bakhmut, Vesela Dolyna and Kodema, was unsuccessful, and retreated. After regrouping, it resumed the attack on Codema, the hostilities continue.</description>
+  <LineString>
+    <coordinates>
+      38.1200878, 48.4909924, 0 38.0924501, 48.4748348, 0 38.0964841, 48.4835969, 0 38.0924501, 48.4748348, 0 38.1064835, 48.4766556, 0 38.0924501, 48.4748348, 0
+    </coordinates>
+  </LineString>
+  <Style> 
+    <LineStyle>  
+      <color>#a52714</color>
+      <width>7</width>
+    </LineStyle> 
+  </Style>
+</Placemark>
+
+<Placemark>
+  <name>Russian Attack</name>
+  <description>The enemy waged offensive battles in the direction of the settlements of Ivano-Daryivka, Vyimka, Bakhmut, Vesela Dolyna and Kodema, was unsuccessful, and retreated. After regrouping, it resumed the attack on Codema, the hostilities continue.</description>
+  <LineString>
+    <coordinates>
+      38.1290708, 48.4605652, 0 38.0992876, 48.4666550, 0 38.1157532, 48.4685469, 0 38.0992876, 48.4666550, 0 38.1117621, 48.4588146, 0 38.0992876, 48.4666550, 0
+    </coordinates>
+  </LineString>
+  <Style> 
+    <LineStyle>  
+      <color>#a52714</color>
+      <width>7</width>
+    </LineStyle> 
+  </Style>
+</Placemark>
+
+<Placemark>
+  <name>Russian Attack</name>
+  <description>The occupiers tried to conduct offensive battles in the districts of Spartak and Maryinka, they did not succeed, they withdrew. Fighting continues near the village of Pisky.</description>
+  <LineString>
+    <coordinates>
+      37.7710396, 48.0907326, 0 37.7683752, 48.1078005, 0 37.7751595, 48.1005925, 0 37.7683752, 48.1078005, 0 37.7638728, 48.0997614, 0 37.7683752, 48.1078005, 0
+    </coordinates>
+  </LineString>
+  <Style> 
+    <LineStyle>  
+      <color>#a52714</color>
+      <width>7</width>
+    </LineStyle> 
+  </Style>
+</Placemark>
+
+<Placemark>
+  <name>Russian Attack</name>
+  <description>The occupiers tried to conduct offensive battles in the districts of Spartak and Maryinka, they did not succeed, they withdrew. Fighting continues near the village of Pisky.</description>
+  <LineString>
+    <coordinates>
+      37.6861898, 48.0553662, 0 37.6694736, 48.0674740, 0 37.6784644, 48.0656386, 0 37.6694736, 48.0674740, 0 37.6710615, 48.0616806, 0 37.6694736, 48.0674740, 0
+    </coordinates>
+  </LineString>
+  <Style> 
+    <LineStyle>  
+      <color>#a52714</color>
+      <width>7</width>
+    </LineStyle> 
+  </Style>
+</Placemark>
+
+<Placemark>
+  <name>Russian Attack</name>
+  <description>The occupiers tried to conduct offensive battles in the districts of Spartak and Maryinka, they did not succeed, they withdrew. Fighting continues near the village of Pisky.</description>
+  <LineString>
+    <coordinates>
+      37.5631174, 47.9239547, 0 37.5140930, 47.9349180, 0 37.5361666, 47.9364343, 0 37.5140930, 47.9349180, 0 37.5313600, 47.9242998, 0 37.5140930, 47.9349180, 0
+    </coordinates>
+  </LineString>
+  <Style> 
+    <LineStyle>  
+      <color>#a52714</color>
+      <width>7</width>
+    </LineStyle> 
+  </Style>
+</Placemark>
+
+
+<Placemark><name>Explosions!</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	37.9602807, 48.055887	</coordinates></Point></Placemark>
+<Placemark><name>Explosions!</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	38.1045308, 48.295535	</coordinates></Point></Placemark>
+<Placemark><name>Missile Strike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	33.3756805, 46.768535	</coordinates></Point></Placemark>
+<Placemark><name>Missile Strike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	30.9991293, 47.640494	</coordinates></Point></Placemark>
+<Placemark><name>Missile Strike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	35.2402566, 47.85186	</coordinates></Point></Placemark>
+<Placemark><name>Missile Strike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	37.5536166, 48.774592	</coordinates></Point></Placemark>
+<Placemark><name>Missile Strike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	36.1189929, 49.957909	</coordinates></Point></Placemark>
+<Placemark><name>Missile Strike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	36.2821324, 49.962144	</coordinates></Point></Placemark>
+<Placemark><name>Airstrike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	33.059529, 47.17302	</coordinates></Point></Placemark>
+<Placemark><name>Airstrike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	33.0771718, 47.191405	</coordinates></Point></Placemark>
+<Placemark><name>Airstrike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	33.910636, 47.43953	</coordinates></Point></Placemark>
+<Placemark><name>Airstrike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	37.250717, 47.77447	</coordinates></Point></Placemark>
+<Placemark><name>Airstrike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	37.499684, 47.84769	</coordinates></Point></Placemark>
+<Placemark><name>Airstrike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	37.7404235, 48.216017	</coordinates></Point></Placemark>
+<Placemark><name>Airstrike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	38.113779, 48.65511	</coordinates></Point></Placemark>
+<Placemark><name>Airstrike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	38.10927, 48.6775	</coordinates></Point></Placemark>
+<Placemark><name>Airstrike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	38.160196, 48.70203	</coordinates></Point></Placemark>
+<Placemark><name>Airstrike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	38.160299, 48.80299	</coordinates></Point></Placemark>
+<Placemark><name>Airstrike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	38.24201, 48.8052	</coordinates></Point></Placemark>
+<Placemark><name>Airstrike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	38.198869, 48.83112	</coordinates></Point></Placemark>
+<Placemark><name>Airstrike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	37.048787, 49.38145	</coordinates></Point></Placemark>
+<Placemark><name>Airstrike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	36.784089, 49.72039	</coordinates></Point></Placemark>
+<Placemark><name>Airstrike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	36.7087182, 50.121134	</coordinates></Point></Placemark>
+<Placemark><name>Airstrike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	36.803502, 50.1405	</coordinates></Point></Placemark>
+<Placemark><name>Airstrike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	36.7170865, 50.151751	</coordinates></Point></Placemark>
+<Placemark><name>Airstrike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	32.315849, 46.80929	</coordinates></Point></Placemark>
+<Placemark><name>Airstrike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	32.322715, 46.87504	</coordinates></Point></Placemark>
+<Placemark><name>Airstrike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	32.550338, 47.02584	</coordinates></Point></Placemark>
+<Placemark><name>Airstrike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	33.2344407, 47.173584	</coordinates></Point></Placemark>
+<Placemark><name>Airstrike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	35.547052, 47.53672	</coordinates></Point></Placemark>
+<Placemark><name>Airstrike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	37.512273, 47.93949	</coordinates></Point></Placemark>
+<Placemark><name>Airstrike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	37.682116, 48.09432	</coordinates></Point></Placemark>
+<Placemark><name>Airstrike</name><styleUrl></styleUrl><description>	</description><Point><coordinates>	37.7512185, 48.145988	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	32.1803912, 46.583781	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	32.116218, 46.60826	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	32.107635, 46.61628	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	32.5360736, 46.687505	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	32.2859821, 46.690315	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	32.2935352, 46.721392	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	32.4283091, 46.728914	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	32.3830075, 46.885521	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	32.4049802, 46.893968	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	32.5615354, 46.978361	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	32.6280409, 47.009573	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	32.6583524, 47.013017	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	32.6556058, 47.041101	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	32.6830716, 47.043908	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	32.789947, 47.05542	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	32.690384, 47.05682	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	32.817413, 47.07038	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.154286, 47.1394	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.102101, 47.15948	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.204412, 47.16368	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.283032, 47.16998	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.25385, 47.1832	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.201322, 47.23856	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.271016, 47.28725	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.356433, 47.35648	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.934121, 47.37005	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.821515, 47.38633	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.707532, 47.39934	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.65775, 47.4012	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.793019, 47.40957	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.463086, 47.42281	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.597325, 47.43071	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	33.399914, 47.43791	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.2649781, 47.447031	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	35.3232133, 47.448093	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	35.4715288, 47.451808	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.3476884, 47.460165	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.2254655, 47.48894	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.274904, 47.53439	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.2543046, 47.562199	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.7761552, 47.685303	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.231119, 47.69839	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.357462, 47.72519	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.386163, 47.72667	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.7981279, 47.744438	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.536635, 47.9215	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.543845, 47.93875	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.6349587, 47.945434	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.5779671, 47.985433	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.6040597, 47.986812	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.692504, 48.04444	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.7771709, 48.054432	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.706898, 48.05763	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.681939, 48.06062	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.7516884, 48.070845	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.773701, 48.09029	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.781592, 48.10332	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.775858, 48.10496	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.816616, 48.12216	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.8808011, 48.122429	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.851962, 48.12334	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.791948, 48.20052	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.7404622, 48.229378	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.7563314, 48.235508	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.8663815, 48.254726	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.8613, 48.282	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.9240597, 48.299053	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.973978, 48.36044	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.0239697, 48.405145	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.0425092, 48.409248	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.0562421, 48.423148	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.0538388, 48.437272	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.0651685, 48.446154	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.089334, 48.44682	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.125383, 48.45342	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.121606, 48.47892	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.10695, 48.49	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1024418, 48.531691	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1230411, 48.536466	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1000385, 48.547603	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.19533, 48.548	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.148386, 48.55261	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1093082, 48.559193	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.22323, 48.5603	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.063302, 48.59548	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.081094, 48.60961	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.132249, 48.62754	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1247578, 48.659981	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.135476, 48.66203	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.191988, 48.66384	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1138724, 48.670144	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1288776, 48.67676	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.121056, 48.69104	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.265383, 48.69547	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.176616, 48.69854	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.172632, 48.71019	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.291791, 48.71941	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.191917, 48.76986	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1679818, 48.776921	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.1775949, 48.784613	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.2163904, 48.785744	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.186178, 48.788	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.2010353, 48.789108	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.246843, 48.82086	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.234489, 48.83218	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.299028, 48.8412	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.328554, 48.84391	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.2328698, 48.85469	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.2284067, 48.86508	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.241008, 48.87359	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.2108972, 48.881339	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.242037, 48.90984	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.2771585, 48.92309	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	38.243815, 48.92488	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.40481, 49.0107	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.341577, 49.02219	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.4418045, 49.022233	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.426721, 49.0303	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.4802566, 49.041591	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.4668671, 49.043616	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.283876, 49.04721	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.4720169, 49.064091	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.1678329, 49.065216	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.1468909, 49.068138	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.4600006, 49.075337	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.448491, 49.08463	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.314798, 49.08789	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.4788834, 49.095124	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.2234534, 49.100064	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.108118, 49.10228	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.273068, 49.12117	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	37.100564, 49.1216	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.827966, 49.44946	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.867619, 49.47463	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.534779, 50.1528	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.791925, 50.16615	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.825438, 50.17188	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.520344, 50.17452	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.410192, 50.18116	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.438521, 50.1959	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.316245, 50.20082	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.562563, 50.20401	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.407404, 50.2066	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.587988, 50.21986	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.251535, 50.24306	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.222274, 50.25636	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.180121, 50.26992	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.254969, 50.27994	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.182083, 50.31899	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.152658, 50.33957	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	36.157465, 50.37068	</coordinates></Point></Placemark>
+<Placemark><name>U Shelling</name><styleUrl>#artyIcon2</styleUrl><description>	</description><Point><coordinates>	35.1167787, 51.248407	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.073302, 46.62972	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	31.995046, 46.69569	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.1211491, 46.71999	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.1314488, 46.762811	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.267988, 46.78345	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.177694, 46.78956	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.29511, 46.8057	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.157095, 46.81636	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.334232, 46.88264	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.3559819, 46.953909	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.3793278, 46.965157	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.479187, 46.99528	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.4555752, 47.016312	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.4257061, 47.022163	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.4428723, 47.028248	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.5328228, 47.030588	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.5534222, 47.036672	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.5218365, 47.064042	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.5424358, 47.065912	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.6667187, 47.078539	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.8803233, 47.08409	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.8851298, 47.086662	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.8919962, 47.086779	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.66744, 47.0921	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.6859448, 47.092565	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.884261, 47.118	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.88283, 47.1225	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.89396, 47.1234	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.771576, 47.13536	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	32.912065, 47.15302	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.038587, 47.17488	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.066739, 47.18888	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.1220933, 47.193189	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.141697, 47.20199	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.116351, 47.20756	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.097983, 47.21269	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.0757541, 47.283211	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.1698246, 47.290198	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.05706, 47.317	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.897042, 47.41282	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.69564, 47.4391	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.4122104, 47.457599	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.6559696, 47.458527	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.6147709, 47.45992	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.388366, 47.46675	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.4534092, 47.467812	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.490488, 47.4757	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.57273, 47.4795	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.7009786, 47.503654	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.0137725, 47.511471	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.936391, 47.51713	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.509754, 47.51772	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.6844991, 47.519423	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.56547, 47.5224	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.0014129, 47.522601	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.824922, 47.5229	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.4132742, 47.524987	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.555908, 47.5273	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.578516, 47.53037	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.7057852, 47.533332	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.809816, 47.53588	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.3926748, 47.537968	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.931645, 47.53803	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.571993, 47.54706	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.658542, 47.55397	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.79471, 47.5579	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	33.684291, 47.55815	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.8217091, 47.566922	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.765871, 47.56855	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.8081478, 47.576997	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	34.395229, 47.58224	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.2942702, 47.587474	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.30386, 47.5896	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.44565, 47.6095	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.2822509, 47.61248	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.5182545, 47.617943	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	34.4512954, 47.61798	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.2520385, 47.625671	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.43405, 47.6375	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.175914, 47.64073	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	34.602721, 47.64116	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	34.636928, 47.64242	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.297434, 47.64839	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.183811, 47.65738	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.252115, 47.66904	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.487193, 47.67102	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.151114, 47.7202	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.1264139, 47.722482	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.133497, 47.73603	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.2355905, 47.743726	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.402642, 47.74399	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.387192, 47.75253	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.2079443, 47.761518	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.2410884, 47.778404	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.2575679, 47.780942	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.623398, 47.80146	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.646744, 47.80791	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.6155905, 47.813981	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.8191447, 47.818071	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.691033, 47.82382	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.8448939, 47.824757	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.6252035, 47.825507	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.8119349, 47.827062	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.8291011, 47.836281	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.692406, 47.84226	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.842834, 47.84296	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.4686646, 47.844139	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.214278, 47.85657	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.5064301, 47.856811	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.507796, 47.92771	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.49475, 47.938	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.502303, 47.94611	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.5488769, 47.98798	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.2609882, 47.98851	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.537116, 47.99878	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.1, 48	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.562563, 48.00602	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.5131714, 48.018762	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.667746, 48.06765	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.638184, 48.07235	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.676593, 48.07407	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.6511871, 48.074765	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.692073, 48.08194	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.6120483, 48.083252	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.67399, 48.0863	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.5931656, 48.095865	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.562391, 48.10142	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.764185, 48.11069	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.782037, 48.11218	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.773283, 48.12398	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.804868, 48.12456	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.761423, 48.13593	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.797392, 48.13684	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.787874, 48.15617	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.7480041, 48.207642	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.7177917, 48.212446	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.7287107, 48.220527	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.7747833, 48.243551	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.721225, 48.24583	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.7452575, 48.253153	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.780239, 48.27642	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0208676, 48.416041	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.040437, 48.42242	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0215543, 48.430395	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0353605, 48.436304	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0484068, 48.44587	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.983968, 48.45362	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0909788, 48.461809	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0628264, 48.471825	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0157911, 48.476377	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.976414, 48.47798	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0834257, 48.479336	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.7244809, 48.502489	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.099611, 48.51887	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.107907, 48.52205	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0834257, 48.527334	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.673593, 48.52864	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0638563, 48.529835	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0769026, 48.542792	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0748427, 48.552565	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.022565, 48.5843	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.040075, 48.59338	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.006772, 48.60496	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.039731, 48.60655	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.020505, 48.63515	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.10412, 48.6626	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.091589, 48.66739	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.138223, 48.70702	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.144563, 48.71261	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.159852, 48.72061	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.170495, 48.73103	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.5877161, 48.739343	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0065981, 48.742107	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.169808, 48.74529	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0817858, 48.752068	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.101144, 48.76996	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.087411, 48.78444	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.07494, 48.7896	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.242765, 48.79311	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.1495145, 48.79509	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.19367, 48.8041	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.1369841, 48.804191	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0802784, 48.807921	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.1574109, 48.811146	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.218732, 48.81187	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.1189587, 48.812502	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.234182, 48.81278	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.1869366, 48.820188	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.209051, 48.82107	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.0916081, 48.826685	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.213926, 48.83199	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.7691128, 48.856118	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.105875, 48.85922	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.202349, 48.86057	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.216318, 48.86325	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.16939, 48.8673	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.110339, 48.87277	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.290788, 48.88276	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.7409604, 48.892247	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.137118, 48.90008	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.163897, 48.9064	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.198572, 48.91069	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.310564, 48.91206	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.17557, 48.9192	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.7155545, 48.92429	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.20041, 48.9254	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	38.148104, 48.92739	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.251169, 48.96066	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.278978, 48.96596	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.0798801, 48.977489	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.399167, 48.98908	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.433156, 48.99111	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.2754276, 48.991606	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.356459, 48.99397	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.424046, 48.99633	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.435731, 48.99719	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.0809101, 48.998667	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.342007, 49.00204	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.3577999, 49.003284	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.2601245, 49.003847	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.436075, 49.00474	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.446031, 49.00699	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.457876, 49.00823	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.514638, 49.01387	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.481336, 49.01454	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.491836, 49.02741	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.14179, 49.0318	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.164026, 49.04756	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.182242, 49.04933	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.13561, 49.0647	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.9979806, 49.10073	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.010096, 49.11761	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.7066477, 49.213216	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.938508, 49.23976	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.920999, 49.2541	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.0398995, 49.295301	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.0632397, 49.306982	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.9379612, 49.309921	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.743421, 49.33774	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.9087167, 49.342903	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.755025, 49.35067	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.79301, 49.3521	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.772411, 49.36111	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.063975, 49.36144	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.827343, 49.37497	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	37.068438, 49.3753	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.5475412, 49.598579	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.7507866, 49.621343	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.748802, 49.64984	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.692407, 49.73133	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.727426, 49.73754	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.793934, 49.75055	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.807152, 49.76397	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.914766, 49.79068	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.4706142, 50.041787	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.7760992, 50.071043	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.38018, 50.0795	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.6106176, 50.079636	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.6370535, 50.080958	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.4545774, 50.085557	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.7991018, 50.09021	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.392733, 50.09632	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.253134, 50.10011	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.4945745, 50.101663	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.408869, 50.10359	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.358057, 50.10469	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.5244436, 50.106287	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.4402, 50.109	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.693247, 50.11169	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.5601492, 50.115755	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.2759649, 50.116959	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.381746, 50.12143	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.723653, 50.12476	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.4760351, 50.127421	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.422258, 50.13331	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.783378, 50.13618	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.2881627, 50.136732	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.810844, 50.14806	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.2716832, 50.150593	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.276315, 50.17205	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.26554, 50.1794	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.240707, 50.18956	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.297319, 50.19616	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.1869331, 50.212257	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.230625, 50.23468	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.1625572, 50.236858	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.224446, 50.23831	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.1865898, 50.258154	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.168837, 50.26577	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.9589825, 50.309968	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.9746037, 50.311831	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.97762, 50.3168	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.131056, 50.33782	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.140326, 50.35348	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.135348, 50.36739	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.073007, 50.38951	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	36.095585, 50.40336	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	35.8585382, 50.414661	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	34.6379898, 51.142933	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	34.322974, 51.15205	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	34.2677825, 51.238687	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	34.1021313, 51.293736	</coordinates></Point></Placemark>
+<Placemark><name>R Shelling</name><styleUrl>#artyIcon1</styleUrl><description>	</description><Point><coordinates>	31.2288717, 51.962106	</coordinates></Point></Placemark>
+
+
+
 
 </Folder>
 </Document></kml>
