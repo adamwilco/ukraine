@@ -16,6 +16,7 @@ WKT,name,description
 "POINT (31.9842111 49.4624737)",Air Defense Active,Shaheds
 "POINT (36.5288868 47.7365553)",Drone Strike,
 "POINT (35.3277566 47.5685722)",Drone Strike,
+"POINT (35.7231926 47.25989)",Missile Strike,
 "POINT (37.7839703 48.0335608)",Strike,
 "POINT (36.4836664 46.7569994)",Explosion,
 "POINT (37.7636576 48.3211327)",Airstrike,
