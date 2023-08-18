@@ -1,0 +1,2047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Today.kmz</name>
+	<StyleMap id="msn_18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_180</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_180">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_181</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_180</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_181">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_181</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_clustershell2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_clustershell2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_clustershell2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_cop">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_cop</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_cop</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_drone_b">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_drone_b</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_drone_b</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_eye">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_eye</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_eye</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon-10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon-102</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon-1010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon-100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon-10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon-10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon-1000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon-100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon-100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon-101">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon-101</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon-101</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon-4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon-4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon-4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon-5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon-5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon-5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon-6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon-6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon-6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon-8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon-80</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon-8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon-80">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon-8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon-80</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_purple_fire">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_purple_fire</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_purple_fire0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_purple_fire0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_purple_fire0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_purple_fire</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_rheli0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_rheli0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_rheli</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_rheli">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_rheli</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_rheli0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_rshelling">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_rshelling</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_rshelling</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shell0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shell</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shell</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_shell">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_shell0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_shell0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_18">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/18.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_180">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/18.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_181">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/18.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_19">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/19.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_clustershell2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/clustershell2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_cop">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/cop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_drone_b">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/drone_b.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_eye">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/eye.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_icon-10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/icon-10.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_icon-101">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/icon-10_01.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_icon-100">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/icon-10_01.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_icon-1010">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/icon-10_01.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_icon-4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/icon-4.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_icon-5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/icon-5.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_icon-6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/icon-6.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_icon-8">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/icon-8.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_icon-80">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/icon-8.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_purple_fire">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/purple_fire.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_purple_fire0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/purple_fire.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_rheli">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/rheli.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sh_rheli0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/rheli.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_rshelling">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/rshelling.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shell">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/shell.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_shell0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>files/shell_01.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_18">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>files/18.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_180">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>files/18.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_181">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>files/18.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_19">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>files/19.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_clustershell2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>files/clustershell2.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_cop">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>files/cop.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_drone_b">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>files/drone_b.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_eye">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>files/eye.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon-102">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>files/icon-10_01.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon-10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>files/icon-10.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_icon-100">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>files/icon-10_01.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon-101">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>files/icon-10_01.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon-4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>files/icon-4.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon-5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>files/icon-5.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon-6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>files/icon-6.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon-8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>files/icon-8.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_icon-80">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>files/icon-8.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_purple_fire">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>files/purple_fire.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_purple_fire0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>files/purple_fire.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_rheli">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>files/rheli.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_rheli0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>files/rheli.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_rshelling">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>files/rshelling.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shell">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>files/shell.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_shell0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>files/shell_01.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>Today</name>
+		<open>1</open>
+		<Placemark>
+			<name>Russian SU-34 Releasing FAB-500M62</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/airstrike1.png" height="300" width="auto" /><br><br><a href="https://t.me/ClashReport/11286">Roughly 66km distance from the hospitals in Kherson</a>]]></description>
+			<LookAt>
+				<longitude>33.25894800290685</longitude>
+				<latitude>46.23067411981349</latitude>
+				<altitude>0</altitude>
+				<heading>-3.269572045888316e-09</heading>
+				<tilt>0</tilt>
+				<range>1007.033430618805</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-1000</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>33.25894800290685,46.23067411981349,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian FAB Strike</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/airstrike2.png" height="300" width="auto" /><br><br><a href="https://t.me/voenkorKotenok/49838">https://t.me/voenkorKotenok/49838</a>]]></description>
+			<LookAt>
+				<longitude>33.29265799908853</longitude>
+				<latitude>46.78348400239655</latitude>
+				<altitude>0</altitude>
+				<heading>-6.642811091064256e-10</heading>
+				<tilt>0</tilt>
+				<range>1000.00003428517</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-1000</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>33.29265799908853,46.78348400239654,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian Airstrike</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/airstrike3.png" height="300" width="auto" /><br><br><a href="https://t.me/brussinf/6426">FAB Strike, Video 2</a>]]></description>
+			<LookAt>
+				<longitude>36.81907900021651</longitude>
+				<latitude>47.74455899903472</latitude>
+				<altitude>0</altitude>
+				<heading>1.602268031880876e-10</heading>
+				<tilt>0</tilt>
+				<range>999.9999977335204</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-1000</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.81907900021651,47.74455899903472,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ukrainian S-300PS Battery Destroyed</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/airstrike4.png" height="300" width="auto" /><br><br><a href="https://t.me/milinfolive/105040">Destruction of KP 5N63S and two launchers 5P85S of the S-300PS (S-300) complex of the Armed Forces of Ukraine</a>]]></description>
+			<LookAt>
+				<longitude>32.23387913549639</longitude>
+				<latitude>46.92491471617925</latitude>
+				<altitude>0</altitude>
+				<heading>-4.27717176897596e-09</heading>
+				<tilt>0</tilt>
+				<range>1029.320708944094</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-10</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>32.23387913549639,46.92491471617926,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Airstrike</name>
+			<description><![CDATA[The Russians dropped four FAB-500 aerial bombs on Blagodatne. There was no information about the victims.<br><br><a href="https://t.me/UA_National_Police/13762">National Police</a>]]></description>
+			<LookAt>
+				<longitude>36.8238330453572</longitude>
+				<latitude>47.79410453853336</latitude>
+				<altitude>0</altitude>
+				<heading>3.370812788074558</heading>
+				<tilt>7.833038450586392</tilt>
+				<range>4077.279155251244</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-1000</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.81564439860414,47.79739991128094,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Airstrike</name>
+			<description><![CDATA[an air strike hit Pyatikhatki<br><br><a href="https://t.me/zoda_gov_ua/21223">ZOVA</a>]]></description>
+			<LookAt>
+				<longitude>35.4564898466361</longitude>
+				<latitude>47.50784205642466</latitude>
+				<altitude>0</altitude>
+				<heading>2.363500247417144</heading>
+				<tilt>15.19682864490107</tilt>
+				<range>3801.000193149992</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-1000</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>35.45839949045943,47.50849557389358,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Airstrike</name>
+			<description><![CDATA[the enemy launched an air strike in the vicinity of Stepne (Sumy oblast).<br><br><a href="https://www.facebook.com/GeneralStaff.ua/posts/pfbid0B26FVjsNKiwMJiovfooiknxA7Bbz2TcdMza2DTQ8RS49Z4zaF9vxrXxF6d4KGLvgl">General Staff</a><br><br>Khotin community: the enemy fired mortars (6 explosions) and artillery (5 explosions). In addition, a NAR missile was launched from a helicopter (3 explosions).<br><br><a href="https://t.me/Sumy_news_ODA/18713">SOVA</a>]]></description>
+			<LookAt>
+				<longitude>34.68256284412809</longitude>
+				<latitude>51.17950762750983</latitude>
+				<altitude>0</altitude>
+				<heading>0.003818643379010441</heading>
+				<tilt>0</tilt>
+				<range>4053.971511555075</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_rheli</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>34.68184282465723,51.18030008199777,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Airstrike</name>
+			<description><![CDATA[Bilopil community: mortar shelling (57 explosions) was recorded. Also, the NAR racket was launched from the helicopter (3 explosions). In addition, the release of VOG from BPlA (9 explosions) was recorded.<br><br><a href="https://t.me/Sumy_news_ODA/18713">SOVA</a><br><br>the adversary launched air strikes in the vicinities of Pavlivka and Stepne (Sumy oblast).<br><br><a href="https://www.facebook.com/GeneralStaff.ua/posts/pfbid0Z2eaXxc5scumdrsY6qR1fFaTuwdZBoZ7b2pk71b6aAzYafR9JDL665p2Y4pux2MWl">General Staff</a>]]></description>
+			<LookAt>
+				<longitude>34.54998141400654</longitude>
+				<latitude>51.19828876820871</latitude>
+				<altitude>0</altitude>
+				<heading>-0.06927281155833082</heading>
+				<tilt>0.7114673259531525</tilt>
+				<range>32047.83456079125</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_rheli0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>34.50130101050714,51.20852634685875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Airstrike</name>
+			<description><![CDATA[the adversary launched air strikes in the vicinities of Ivankivka, Zahryzove (Kharkiv oblast) and Stel'makhivka (Luhansk oblast).<br><br><a href="https://www.facebook.com/GeneralStaff.ua/posts/pfbid0B26FVjsNKiwMJiovfooiknxA7Bbz2TcdMza2DTQ8RS49Z4zaF9vxrXxF6d4KGLvgl">General Staff</a>]]></description>
+			<LookAt>
+				<longitude>37.90474750365213</longitude>
+				<latitude>49.65808490156155</latitude>
+				<altitude>0</altitude>
+				<heading>2.488207222243938</heading>
+				<tilt>1.825306470003232</tilt>
+				<range>13849.01106122186</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-101</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>37.89332272083985,49.66025739184112,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Airstrike</name>
+			<description><![CDATA[the adversary launched air strikes in the vicinities of Ivankivka, Zahryzove (Kharkiv oblast) and Stel'makhivka (Luhansk oblast).<br><br><a href="https://www.facebook.com/GeneralStaff.ua/posts/pfbid0B26FVjsNKiwMJiovfooiknxA7Bbz2TcdMza2DTQ8RS49Z4zaF9vxrXxF6d4KGLvgl">General Staff</a>]]></description>
+			<LookAt>
+				<longitude>37.70999320348585</longitude>
+				<latitude>49.50145241394341</latitude>
+				<altitude>0</altitude>
+				<heading>2.650699715969146e-09</heading>
+				<tilt>0</tilt>
+				<range>5691.104867427699</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-101</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>37.71669225622448,49.50746342598345,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Airstrike</name>
+			<description><![CDATA[the adversary launched air strikes in the vicinities of Bilohorivka (Luhansk oblast) and Spirne (Donetsk oblast).<br><br><a href="https://www.facebook.com/GeneralStaff.ua/posts/pfbid0B26FVjsNKiwMJiovfooiknxA7Bbz2TcdMza2DTQ8RS49Z4zaF9vxrXxF6d4KGLvgl">General Staff</a>]]></description>
+			<LookAt>
+				<longitude>38.22991755218711</longitude>
+				<latitude>48.92221313375663</latitude>
+				<altitude>0</altitude>
+				<heading>0.3928731658203785</heading>
+				<tilt>0.3460782032057725</tilt>
+				<range>18090.59511924611</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-101</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>38.25753904617589,48.92431082476493,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Airstrike</name>
+			<description><![CDATA[the adversary launched air strikes in the vicinities of Bilohorivka (Luhansk oblast) and Spirne (Donetsk oblast).<br><br><a href="https://www.facebook.com/GeneralStaff.ua/posts/pfbid0B26FVjsNKiwMJiovfooiknxA7Bbz2TcdMza2DTQ8RS49Z4zaF9vxrXxF6d4KGLvgl">General Staff</a>]]></description>
+			<LookAt>
+				<longitude>38.26984141878582</longitude>
+				<latitude>48.81459775671404</latitude>
+				<altitude>0</altitude>
+				<heading>0.4229785204949423</heading>
+				<tilt>0.346071623497253</tilt>
+				<range>17970.57312517252</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-101</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>38.24013262804517,48.80707686620121,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Airstrike</name>
+			<description><![CDATA[russian forces launched air strikes in the vicinities of Vasyukivka and Klishchiivka (Donetsk oblast).<br><br><a href="https://www.facebook.com/GeneralStaff.ua/posts/pfbid0B26FVjsNKiwMJiovfooiknxA7Bbz2TcdMza2DTQ8RS49Z4zaF9vxrXxF6d4KGLvgl">General Staff</a>]]></description>
+			<LookAt>
+				<longitude>38.02236796271832</longitude>
+				<latitude>48.73648865809869</latitude>
+				<altitude>0</altitude>
+				<heading>0.2371585171352154</heading>
+				<tilt>2.543052688291074</tilt>
+				<range>13436.95264613336</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-101</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>37.99588608369713,48.73912220555246,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Airstrike</name>
+			<description><![CDATA[russian forces launched air strikes in the vicinities of Vasyukivka and Klishchiivka (Donetsk oblast).<br><br><a href="https://www.facebook.com/GeneralStaff.ua/posts/pfbid0B26FVjsNKiwMJiovfooiknxA7Bbz2TcdMza2DTQ8RS49Z4zaF9vxrXxF6d4KGLvgl">General Staff</a>]]></description>
+			<LookAt>
+				<longitude>37.97772278696466</longitude>
+				<latitude>48.53346974678526</latitude>
+				<altitude>0</altitude>
+				<heading>0.2035462664102377</heading>
+				<tilt>4.278468261190357</tilt>
+				<range>14521.88164517672</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-101</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>37.94915341627977,48.52460475271435,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Airstrike</name>
+			<description><![CDATA[the enemy launched an air strike in the vicinity of Avdiivka.<br><br><a href="https://www.facebook.com/GeneralStaff.ua/posts/pfbid0B26FVjsNKiwMJiovfooiknxA7Bbz2TcdMza2DTQ8RS49Z4zaF9vxrXxF6d4KGLvgl">General Staff</a>]]></description>
+			<LookAt>
+				<longitude>37.79043725004941</longitude>
+				<latitude>48.12659021478921</latitude>
+				<altitude>0</altitude>
+				<heading>0.06354565001348809</heading>
+				<tilt>4.288717325065202</tilt>
+				<range>29852.35429885441</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-101</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>37.77656431590702,48.12405994856987,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Airstrike</name>
+			<description><![CDATA[The enemy launched an air strike in the vicinities of Krasnohorivka and Novomykhailivka (Donetsk oblast).<br><br><a href="https://www.facebook.com/GeneralStaff.ua/posts/pfbid0B26FVjsNKiwMJiovfooiknxA7Bbz2TcdMza2DTQ8RS49Z4zaF9vxrXxF6d4KGLvgl">General Staff</a>]]></description>
+			<LookAt>
+				<longitude>37.55122057106801</longitude>
+				<latitude>48.01263679770241</latitude>
+				<altitude>0</altitude>
+				<heading>-0.114334411283463</heading>
+				<tilt>4.283595701603249</tilt>
+				<range>22191.97948073462</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-101</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>37.50013859251635,48.00295568563856,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Airstrike</name>
+			<description><![CDATA[The enemy launched an air strike in the vicinities of Krasnohorivka and Novomykhailivka (Donetsk oblast).<br><br><a href="https://www.facebook.com/GeneralStaff.ua/posts/pfbid0B26FVjsNKiwMJiovfooiknxA7Bbz2TcdMza2DTQ8RS49Z4zaF9vxrXxF6d4KGLvgl">General Staff</a>]]></description>
+			<LookAt>
+				<longitude>37.51726175751821</longitude>
+				<latitude>47.86341035995775</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1396335031484187</heading>
+				<tilt>4.283575786442586</tilt>
+				<range>22162.25207459499</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-101</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>37.49887074616864,47.85676897397286,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Airstrike</name>
+			<description><![CDATA[the enemy launched air strikes in the vicinities of Velyka Novosilka, Blahodatne, Makarivka, Urozhaine (Donetsk oblast).<br><br><a href="https://www.facebook.com/GeneralStaff.ua/posts/pfbid0B26FVjsNKiwMJiovfooiknxA7Bbz2TcdMza2DTQ8RS49Z4zaF9vxrXxF6d4KGLvgl">General Staff</a>]]></description>
+			<LookAt>
+				<longitude>36.85991558189441</longitude>
+				<latitude>47.81292825428438</latitude>
+				<altitude>0</altitude>
+				<heading>-0.626448986204439</heading>
+				<tilt>4.283836509335163</tilt>
+				<range>22552.03504792708</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-101</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.84239403733469,47.84060814048985,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Airstrike</name>
+			<description><![CDATA[the enemy launched air strikes in the vicinities of Velyka Novosilka, Blahodatne, Makarivka, Urozhaine (Donetsk oblast).<br><br><a href="https://www.facebook.com/GeneralStaff.ua/posts/pfbid0B26FVjsNKiwMJiovfooiknxA7Bbz2TcdMza2DTQ8RS49Z4zaF9vxrXxF6d4KGLvgl">General Staff</a>]]></description>
+			<LookAt>
+				<longitude>36.85991558189441</longitude>
+				<latitude>47.81292825428438</latitude>
+				<altitude>0</altitude>
+				<heading>-0.626448986204439</heading>
+				<tilt>4.283836509335163</tilt>
+				<range>22552.03504792708</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-101</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.81243296000636,47.80170428931523,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Airstrike</name>
+			<description><![CDATA[the enemy launched air strikes in the vicinities of Velyka Novosilka, Blahodatne, Makarivka, Urozhaine (Donetsk oblast).<br><br><a href="https://www.facebook.com/GeneralStaff.ua/posts/pfbid0B26FVjsNKiwMJiovfooiknxA7Bbz2TcdMza2DTQ8RS49Z4zaF9vxrXxF6d4KGLvgl">General Staff</a>]]></description>
+			<LookAt>
+				<longitude>36.85822542250254</longitude>
+				<latitude>47.76258242649254</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6277461556137669</heading>
+				<tilt>4.28377563816761</tilt>
+				<range>22461.21212865987</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-101</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.81616776385815,47.75045565173501,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Airstrike</name>
+			<description><![CDATA[the enemy launched air strikes in the vicinities of Velyka Novosilka, Blahodatne, Makarivka, Urozhaine (Donetsk oblast).<br><br><a href="https://www.facebook.com/GeneralStaff.ua/posts/pfbid0B26FVjsNKiwMJiovfooiknxA7Bbz2TcdMza2DTQ8RS49Z4zaF9vxrXxF6d4KGLvgl">General Staff</a>]]></description>
+			<LookAt>
+				<longitude>36.84741109904923</longitude>
+				<latitude>47.77024496193919</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6357507656667784</heading>
+				<tilt>4.283789562352458</tilt>
+				<range>22481.81385268535</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-101</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.79970778497059,47.77651477357632,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Airstrike</name>
+			<description><![CDATA[the invaders launched an air strike in the vicinity of Novodanylivka (Zaporizhzhia oblast).<br><br><a href="https://www.facebook.com/GeneralStaff.ua/posts/pfbid0B26FVjsNKiwMJiovfooiknxA7Bbz2TcdMza2DTQ8RS49Z4zaF9vxrXxF6d4KGLvgl">General Staff</a>]]></description>
+			<LookAt>
+				<longitude>35.85249117027022</longitude>
+				<latitude>47.52474646540669</latitude>
+				<altitude>0</altitude>
+				<heading>-1.371187884850942</heading>
+				<tilt>4.290151275634912</tilt>
+				<range>31994.57960419655</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-101</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>35.82875029760181,47.52131586418734,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Airstrike</name>
+			<description><![CDATA[the adversary launched an air strike in the vicinity of Ol’hivka (Kherson oblast).<br><br><a href="https://www.facebook.com/GeneralStaff.ua/posts/pfbid0B26FVjsNKiwMJiovfooiknxA7Bbz2TcdMza2DTQ8RS49Z4zaF9vxrXxF6d4KGLvgl">General Staff</a>]]></description>
+			<LookAt>
+				<longitude>33.20866975760315</longitude>
+				<latitude>46.79585797241707</latitude>
+				<altitude>0</altitude>
+				<heading>-3.311899703601736</heading>
+				<tilt>4.697591976484619</tilt>
+				<range>18580.64128352886</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-101</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>33.1975672763843,46.79131318920655,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Drone Strike</name>
+			<description><![CDATA[7 enemy UAVs attacked Gulyaipole, Zaliznychne, Chervone, Charivne, Novodarivka and Mali Shcherbaki<br><br><a href="https://t.me/zoda_gov_ua/21223">ZOVA</a>]]></description>
+			<LookAt>
+				<longitude>36.39185730585162</longitude>
+				<latitude>47.64739859758122</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9701263309300613</heading>
+				<tilt>4.700378258505913</tilt>
+				<range>22382.52878408056</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-80</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.39324342237592,47.65433930184168,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Drone Strike</name>
+			<description><![CDATA[7 enemy UAVs attacked Gulyaipole, Zaliznychne, Chervone, Charivne, Novodarivka and Mali Shcherbaki<br><br><a href="https://t.me/zoda_gov_ua/21223">ZOVA</a>]]></description>
+			<LookAt>
+				<longitude>36.06506405036181</longitude>
+				<latitude>47.56525574185851</latitude>
+				<altitude>0</altitude>
+				<heading>-1.211483514028302</heading>
+				<tilt>4.700394838131092</tilt>
+				<range>22404.81951650426</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-80</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.03858301594148,47.57805170939409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Drone Strike</name>
+			<description><![CDATA[7 enemy UAVs attacked Gulyaipole, Zaliznychne, Chervone, Charivne, Novodarivka and Mali Shcherbaki<br><br><a href="https://t.me/zoda_gov_ua/21223">ZOVA</a>]]></description>
+			<LookAt>
+				<longitude>36.31906316169037</longitude>
+				<latitude>47.64885958759675</latitude>
+				<altitude>0</altitude>
+				<heading>-1.02386493083326</heading>
+				<tilt>4.700453485500717</tilt>
+				<range>22484.36668497582</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-80</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.2792766344869,47.65672355584955,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Drone Strike</name>
+			<description><![CDATA[7 enemy UAVs attacked Gulyaipole, Zaliznychne, Chervone, Charivne, Novodarivka and Mali Shcherbaki<br><br><a href="https://t.me/zoda_gov_ua/21223">ZOVA</a>]]></description>
+			<LookAt>
+				<longitude>36.21643990340787</longitude>
+				<latitude>47.64118191526615</latitude>
+				<altitude>0</altitude>
+				<heading>-1.099722603599158</heading>
+				<tilt>4.700379245626891</tilt>
+				<range>22384.32394036899</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-80</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.16607577937118,47.65416491826034,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Drone Strike</name>
+			<description><![CDATA[7 enemy UAVs attacked Gulyaipole, Zaliznychne, Chervone, Charivne, Novodarivka and Mali Shcherbaki<br><br><a href="https://t.me/zoda_gov_ua/21223">ZOVA</a>]]></description>
+			<LookAt>
+				<longitude>36.65518290920467</longitude>
+				<latitude>47.7684979808737</latitude>
+				<altitude>0</altitude>
+				<heading>-0.7838651181398438</heading>
+				<tilt>6.802880069941173</tilt>
+				<range>12442.7211584167</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-80</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.63966525974566,47.78175133132182,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Drone Strike</name>
+			<description><![CDATA[7 enemy UAVs attacked Gulyaipole, Zaliznychne, Chervone, Charivne, Novodarivka and Mali Shcherbaki<br><br><a href="https://t.me/zoda_gov_ua/21223">ZOVA</a>]]></description>
+			<LookAt>
+				<longitude>35.57366083863273</longitude>
+				<latitude>47.53720969882495</latitude>
+				<altitude>0</altitude>
+				<heading>-1.587346650044455</heading>
+				<tilt>8.063366334289844</tilt>
+				<range>14700.61491407263</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-80</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>35.55091335910713,47.54629279367624,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MLR Strike</name>
+			<description><![CDATA[5 MLR strikes hit Novodarivka, Stepnohirsk, Kamianskiy, and Pavlivka<br><br><a href="https://t.me/zoda_gov_ua/21223">ZOVA</a>]]></description>
+			<LookAt>
+				<longitude>36.64716279692483</longitude>
+				<latitude>47.77565529275041</latitude>
+				<altitude>0</altitude>
+				<heading>-0.7757521361024187</heading>
+				<tilt>7.897136617009239</tilt>
+				<range>9374.996793204224</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_181</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.6308039942051,47.7821551186527,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MLR Strike</name>
+			<description><![CDATA[5 MLR strikes hit Novodarivka, Stepnohirsk, Kamianskiy, and Pavlivka<br><br><a href="https://t.me/zoda_gov_ua/21223">ZOVA</a>]]></description>
+			<LookAt>
+				<longitude>35.53723743059383</longitude>
+				<latitude>47.58332157327583</latitude>
+				<altitude>0</altitude>
+				<heading>-1.595979354249513</heading>
+				<tilt>9.095510909640758</tilt>
+				<range>11167.54752928577</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_181</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>35.5142644271459,47.60226373085794,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MLR Strike</name>
+			<description><![CDATA[5 MLR strikes hit Novodarivka, Stepnohirsk, Kamianskiy, and Pavlivka<br><br><a href="https://t.me/zoda_gov_ua/21223">ZOVA</a>]]></description>
+			<LookAt>
+				<longitude>35.43793684368467</longitude>
+				<latitude>47.57924707774659</latitude>
+				<altitude>0</altitude>
+				<heading>-1.669372656706987</heading>
+				<tilt>7.915961504602493</tilt>
+				<range>24649.40765453916</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_181</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>35.36630747872062,47.58940981527988,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MLR Strike</name>
+			<description><![CDATA[5 MLR strikes hit Novodarivka, Stepnohirsk, Kamianskiy, and Pavlivka<br><br><a href="https://t.me/zoda_gov_ua/21223">ZOVA</a>]]></description>
+			<LookAt>
+				<longitude>35.43554579637616</longitude>
+				<latitude>47.55582505407057</latitude>
+				<altitude>0</altitude>
+				<heading>-1.67115093617439</heading>
+				<tilt>7.916105131026963</tilt>
+				<range>24765.60675832661</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_181</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>35.36936452218318,47.54576548712857,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>S-300 Strike</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/stepne.png" height="300" width="auto" /><br><br>At night, the enemy took turns shelling populated areas of the Zaporizhzhia region from S-300 anti-aircraft missile systems. As a result of the attack, civil infrastructure facilities and residential buildings were destroyed and damaged in the suburbs.<br><br>Unfortunately, there are dead and wounded. In the village of Stepne, 2 people died, another woman was taken to a medical facility in serious condition.<br><br><a href="https://t.me/zoda_gov_ua/21231">ZOVA</a>
+<br><br>
+3 missile strikes hit Stepny<br><br><a href="https://t.me/zoda_gov_ua/21223">ZOVA</a>]]></description>
+			<LookAt>
+				<longitude>35.31915790323782</longitude>
+				<latitude>47.79346308588369</latitude>
+				<altitude>0</altitude>
+				<heading>-1.755037559169082</heading>
+				<tilt>10.74770804819985</tilt>
+				<range>8834.076328586771</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_181</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>35.30865431216962,47.79507187003742,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Strike</name>
+			<LookAt>
+				<longitude>35.32875741496122</longitude>
+				<latitude>46.88632004866238</latitude>
+				<altitude>0</altitude>
+				<heading>-1.744887619828178</heading>
+				<tilt>12.55546448577982</tilt>
+				<range>50690.16515652028</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_19</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>35.32875741496122,46.88632004866238,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Strike</name>
+			<LookAt>
+				<longitude>32.98906643887251</longitude>
+				<latitude>46.15764491107218</latitude>
+				<altitude>0</altitude>
+				<heading>-3.439034047645901</heading>
+				<tilt>12.43177943214243</tilt>
+				<range>73035.02321808103</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_19</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>32.88207874842583,46.13154267232447,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Strike</name>
+			<LookAt>
+				<longitude>36.68095121151052</longitude>
+				<latitude>47.36802359201492</latitude>
+				<altitude>0</altitude>
+				<heading>-0.7453617348570599</heading>
+				<tilt>12.33283353208155</tilt>
+				<range>21305.40033628426</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_19</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.67208469510081,47.34536823257122,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ukrainian Shelling</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/strike2.png" height="300" width="auto" /><br><br><a href="https://twitter.com/small10space/status/1691081342564352000">https://twitter.com/small10space/status/1691081342564352000</a>]]></description>
+			<LookAt>
+				<longitude>38.11022799415932</longitude>
+				<latitude>48.66597500032984</latitude>
+				<altitude>0</altitude>
+				<heading>-4.385619141949821e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.00000623848</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_19</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>38.11022799415932,48.66597500032984,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian Repair Station Struck by Missile</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/strike3.png" height="300" width="auto" /><br><br>
+<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/strike5.png" height="300" width="auto" /><br><br>
+Position 1, the first hit on the territory of the "VolnI" stadium. On the territory of the stadium, the occupiers set up a repair base after the previous Yuryivska cotton.<br><br><a href="https://t.me/andriyshTime/12593">source</a><br><br>
+<a href="https://t.me/mariupolnow/33128">Also Source</a>]]></description>
+			<LookAt>
+				<longitude>37.19391722144667</longitude>
+				<latitude>46.93495642141494</latitude>
+				<altitude>0</altitude>
+				<heading>-2.805665881714092e-09</heading>
+				<tilt>0</tilt>
+				<range>1020.416464950303</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_19</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>37.19391722144667,46.93495642141494,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian Barracks Struck by Missile</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/strike4.png" height="300" width="auto" /><br><br>
+<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/strike5.png" height="300" width="auto" /><br><br>
+Position 2, A hit directly on the Barracks <br><br>50 seriously wounded occupiers from Yuryivka have already been brought to Mariupol, two of them have already gone into the "good Russian" condition. Others have every chance to get on the deck of the Moscow cruiser before morning. strike5 https://t.me/mariupolnow/33128<br><br>
+<a href="https://t.me/andriyshTime/12593">source</a>
+<a href="https://t.me/mariupolnow/33128">Also Source</a>]]></description>
+			<LookAt>
+				<longitude>37.19026200191146</longitude>
+				<latitude>46.93371100029663</latitude>
+				<altitude>0</altitude>
+				<heading>1.396393907904424e-09</heading>
+				<tilt>0</tilt>
+				<range>999.4872618940161</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_19</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>37.19026200191146,46.93371100029662,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian Missile Strike</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/odesa.png" height="300" width="auto" /><br><br><a href="https://t.me/info_zp/43854">Russian airstrike destroyed Fozzy hypermarket in Odesa</a>]]></description>
+			<LookAt>
+				<longitude>30.70542423797093</longitude>
+				<latitude>46.46998804608223</latitude>
+				<altitude>0</altitude>
+				<heading>-3.204501077660254e-09</heading>
+				<tilt>0</tilt>
+				<range>1015.015170578905</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_18</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>30.70542423797093,46.46998804608222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Explosion at Makhachkala Gas Station</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/fire2.png" height="300" width="auto" /><br><br><a href="https://t.me/breakingmash/46876">Explosion at a gas station in Makhachkala</a>]]></description>
+			<LookAt>
+				<longitude>47.45176687763131</longitude>
+				<latitude>43.03770505516997</latitude>
+				<altitude>0</altitude>
+				<heading>1.435747865144576e-08</heading>
+				<tilt>0</tilt>
+				<range>1064.607035693983</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_purple_fire</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>47.45176687763131,43.03770505516998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Satellite Imagery 8/14</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/sat1.png" height="300" width="auto" /><br><br><a href="https://twitter.com/bradyafr/status/1691041988894740481">Russian helicopters and new revetments at Berdyansk airport are visible in recent satellite imagery of southern Ukraine.</a>]]></description>
+			<LookAt>
+				<longitude>36.76818161951698</longitude>
+				<latitude>46.81085024004867</latitude>
+				<altitude>0</altitude>
+				<heading>4.267278882639208e-06</heading>
+				<tilt>0</tilt>
+				<range>1017.540666689651</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_eye</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.76818161951697,46.81085024004867,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian Lancet-3M Flying</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/scout.png" height="300" width="auto" /><br><br><a href="https://t.me/BaluHUB/3821">Other angle t.me/horevica/13990</a>]]></description>
+			<LookAt>
+				<longitude>35.95521999519616</longitude>
+				<latitude>47.4570199935259</latitude>
+				<altitude>0</altitude>
+				<heading>-3.539330791196644e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.000090440438</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_eye</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>35.95521999519616,47.4570199935259,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ukrainian Shelling?</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/fire1.png" height="300" width="auto" /><br><br><a href="https://t.me/itsdonetsk/94310">https://t.me/itsdonetsk/94310</a>]]></description>
+			<LookAt>
+				<longitude>37.75488246588652</longitude>
+				<latitude>48.02932366250737</latitude>
+				<altitude>0</altitude>
+				<heading>-2.92988085452131e-08</heading>
+				<tilt>0</tilt>
+				<range>1054.295055636783</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_purple_fire0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>37.75488246588652,48.02932366250737,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ukrainian SUV Destroyed</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/drone1.png" height="300" width="auto" /><br><br><a href="https://t.me/BOBRMORF/170">https://t.me/BOBRMORF/170</a>]]></description>
+			<LookAt>
+				<longitude>35.8852611855857</longitude>
+				<latitude>47.46201305705483</latitude>
+				<altitude>0</altitude>
+				<heading>-4.153435469648303e-09</heading>
+				<tilt>0</tilt>
+				<range>1012.213925743528</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-8</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>35.8852611855857,47.46201305705483,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ukrainian M777 Damaged</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/drone6.png" height="300" width="auto" /><br><br><a href="https://t.me/obtf_kaskad/2774">https://t.me/obtf_kaskad/2774</a>]]></description>
+			<LookAt>
+				<longitude>36.74561200978407</longitude>
+				<latitude>47.81362800758694</latitude>
+				<altitude>0</altitude>
+				<heading>7.249635479850045e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.000047846098</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-8</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.74561200978407,47.81362800758695,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian BMP-1 Damaged</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/drone2.png" height="300" width="auto" /><br><br><a href="https://t.me/mysiagin/25754">0:02-0:37</a>]]></description>
+			<LookAt>
+				<longitude>38.11924959980615</longitude>
+				<latitude>48.97820966940402</latitude>
+				<altitude>0</altitude>
+				<heading>-5.088728462607551e-09</heading>
+				<tilt>0</tilt>
+				<range>1021.301533760524</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_drone_b</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>38.11924959980615,48.97820966940403,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian T-72B Destroyed</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/drone3.png" height="300" width="auto" /><br><br><a href="https://t.me/fedorenkoys/81">https://t.me/fedorenkoys/81</a>]]></description>
+			<LookAt>
+				<longitude>37.96471921090698</longitude>
+				<latitude>49.51330426216035</latitude>
+				<altitude>0</altitude>
+				<heading>-2.736262998009877e-10</heading>
+				<tilt>0</tilt>
+				<range>1020.97144490989</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_drone_b</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>37.96471921090698,49.51330426216035,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian UR-77 Destroyed</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/drone4.png" height="300" width="auto" /><br><br><a href="t.me/mysiagin/25769">t.me/mysiagin/25769</a>]]></description>
+			<LookAt>
+				<longitude>37.5273660539475</longitude>
+				<latitude>47.89463126066655</latitude>
+				<altitude>0</altitude>
+				<heading>-7.431111568864988e-09</heading>
+				<tilt>0</tilt>
+				<range>1013.215839122555</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_drone_b</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>37.5273660539475,47.89463126066654,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian Boat Damaged</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/drone5.png" height="300" width="auto" /><br><br><a href="https://t.me/ukr_sof/693">73rd Marine Center of the SSO</a>]]></description>
+			<LookAt>
+				<longitude>32.40792527036648</longitude>
+				<latitude>46.5402430662034</latitude>
+				<altitude>0</altitude>
+				<heading>-9.52986418652232e-10</heading>
+				<tilt>0</tilt>
+				<range>1018.169019057152</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_drone_b</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>32.40792527036648,46.5402430662034,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ukrainian Drone Attacks</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/drone7.png" height="300" width="auto" /><br><br><a href="https://t.me/Tsaplienko/37525">0:21</a>]]></description>
+			<LookAt>
+				<longitude>38.29958095985808</longitude>
+				<latitude>48.83452561027278</latitude>
+				<altitude>0</altitude>
+				<heading>-3.299817212576225e-08</heading>
+				<tilt>0</tilt>
+				<range>1041.742407399461</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_drone_b</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>38.29958095985808,48.83452561027277,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian Truck Damaged</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/drone8.png" height="300" width="auto" /><br><br><a href="https://t.me/Tsaplienko/37525">0:29</a>]]></description>
+			<LookAt>
+				<longitude>38.30696702247265</longitude>
+				<latitude>48.84877602457329</latitude>
+				<altitude>0</altitude>
+				<heading>1.692134286350159e-08</heading>
+				<tilt>0</tilt>
+				<range>1000.000025314403</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_drone_b</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>38.30696702247265,48.84877602457329,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian Tank Damaged</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/drone11.png" height="300" width="auto" /><br><br><a href="https://t.me/Centr_omega_NGU/627">https://t.me/Centr_omega_NGU/627</a>]]></description>
+			<LookAt>
+				<longitude>38.00046699582935</longitude>
+				<latitude>49.38547999853451</latitude>
+				<altitude>0</altitude>
+				<heading>-3.165997282686457e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.000087183</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_drone_b</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>38.00046699582935,49.38547999853451,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian Missile Strike?</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/strike6.png" height="300" width="auto" /><br><br><a href="https://t.me/itsdonetsk/94474">https://t.me/itsdonetsk/94474</a>]]></description>
+			<LookAt>
+				<longitude>37.58435041627769</longitude>
+				<latitude>48.73896709650582</latitude>
+				<altitude>0</altitude>
+				<heading>3.129212736545725e-07</heading>
+				<tilt>0</tilt>
+				<range>23117.6126471258</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_180</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>37.59452486078907,48.75530665450106,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ukrainian Shelling</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/shelling1.png" height="300" width="auto" /><br><br><a href="https://t.me/vanek_nikolaev/17001">https://t.me/vanek_nikolaev/17001</a>]]></description>
+			<LookAt>
+				<longitude>32.94645500047593</longitude>
+				<latitude>46.70837400104237</latitude>
+				<altitude>0</altitude>
+				<heading>-6.110672487308594e-10</heading>
+				<tilt>0</tilt>
+				<range>1000.756332509832</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shell0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>32.94645500047592,46.70837400104237,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ukrainian Shelling</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/shelling5.png" height="300" width="auto" /><br><br><a href="https://www.facebook.com/watch/?v=677607430889795">Field warehouse with ammunition destroyed by 116th brigade</a>]]></description>
+			<LookAt>
+				<longitude>37.74870025856821</longitude>
+				<latitude>48.1905471658056</latitude>
+				<altitude>0</altitude>
+				<heading>-5.193307644977819e-08</heading>
+				<tilt>0</tilt>
+				<range>1071.838475810913</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shell0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>37.74870025856821,48.1905471658056,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ukrainian Shelling</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/shelling6.png" height="300" width="auto" /><br><br><a href="https://t.me/supernova_plus/22858">https://t.me/supernova_plus/22858</a>]]></description>
+			<LookAt>
+				<longitude>35.83552174986692</longitude>
+				<latitude>47.44307873241213</latitude>
+				<altitude>0</altitude>
+				<heading>-2.9845902117081e-08</heading>
+				<tilt>0</tilt>
+				<range>1068.335356849819</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shell0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>35.83552174986692,47.44307873241214,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ukrainian DPICM Shelling</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/shelling3.png" height="300" width="auto" /><br><br><a href="https://twitter.com/small10space/status/1691103624124866560">https://twitter.com/small10space/status/1691103624124866560</a>]]></description>
+			<LookAt>
+				<longitude>36.82789392573679</longitude>
+				<latitude>47.73543575761122</latitude>
+				<altitude>0</altitude>
+				<heading>0.0001142559854224258</heading>
+				<tilt>13.45275477627887</tilt>
+				<range>465.3255774626004</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_clustershell2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.82719743960144,47.73570735760245,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian Shelling</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/shelling2.png" height="300" width="auto" /><br><br><a href="https://t.me/brussinf/6426">Grad strike, video 1</a>]]></description>
+			<LookAt>
+				<longitude>36.82218400727115</longitude>
+				<latitude>47.75111400009402</latitude>
+				<altitude>0</altitude>
+				<heading>5.38234454858154e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.000060089943</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_rshelling</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.82218400727116,47.75111400009402,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian Shelling</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/shelling4.png" height="300" width="auto" /><br><br><a href="https://t.me/milinfolive/105051">https://t.me/milinfolive/105051</a>]]></description>
+			<LookAt>
+				<longitude>35.83406389280757</longitude>
+				<latitude>47.44457639243294</latitude>
+				<altitude>0</altitude>
+				<heading>-5.298136182835111e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.000077292953</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_rshelling</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>35.83406389280757,47.44457639243295,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ukrainian 2S1 Gvozdika Destroyed</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/tank13.png" height="300" width="auto" /><br><br><a href="https://t.me/natoptishh/1797">https://t.me/natoptishh/1797</a>]]></description>
+			<LookAt>
+				<longitude>37.68780598790888</longitude>
+				<latitude>49.71905597623629</latitude>
+				<altitude>0</altitude>
+				<heading>-1.137709853996952e-09</heading>
+				<tilt>0</tilt>
+				<range>1003.016348163693</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-5</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>37.68780598790889,49.71905597623628,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian BMP-2 Destroyed</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/tank1.png" height="300" width="auto" /><br><br><a href="https://t.me/info_zp/43850">https://t.me/info_zp/43850</a>]]></description>
+			<LookAt>
+				<longitude>36.82779507652302</longitude>
+				<latitude>47.73519518776205</latitude>
+				<altitude>0</altitude>
+				<heading>-3.687461944931126e-09</heading>
+				<tilt>0</tilt>
+				<range>1012.475537480238</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-4</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.82779507652301,47.73519518776205,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian BMP-2 Damaged</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/tank10.png" height="300" width="auto" /><br><br><a href="https://t.me/wild_hornets/249">https://t.me/wild_hornets/249</a>]]></description>
+			<LookAt>
+				<longitude>36.82772553356182</longitude>
+				<latitude>47.73548584270218</latitude>
+				<altitude>0</altitude>
+				<heading>4.613957557991937e-05</heading>
+				<tilt>0.4409378235897542</tilt>
+				<range>986.3484038614695</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-4</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.82772553356182,47.73548584270217,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian Kamaz Destroyed</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/tank11.png" height="300" width="auto" /><br><br><a href="https://t.me/k_2_54/162">https://t.me/k_2_54/162</a>]]></description>
+			<LookAt>
+				<longitude>38.31507999486939</longitude>
+				<latitude>48.84942200835454</latitude>
+				<altitude>0</altitude>
+				<heading>-3.863248021620933e-09</heading>
+				<tilt>0</tilt>
+				<range>999.5587103599746</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-4</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>38.3150799948694,48.84942200835454,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian D-30 Destroyed</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/tank12.png" height="300" width="auto" /><br><br><a href="https://t.me/k_2_54/162">https://t.me/k_2_54/162</a>]]></description>
+			<LookAt>
+				<longitude>38.29027899427803</longitude>
+				<latitude>48.85767700139775</latitude>
+				<altitude>0</altitude>
+				<heading>-4.309104537977854e-09</heading>
+				<tilt>0</tilt>
+				<range>999.9001397417702</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-4</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>38.29027899427803,48.85767700139775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian URAL 4320 Destroyed</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/tank2.png" height="300" width="auto" /><br><br><a href="https://t.me/lost_warinua/45997">https://t.me/lost_warinua/45997</a>]]></description>
+			<LookAt>
+				<longitude>37.96672821266005</longitude>
+				<latitude>48.48535324613125</latitude>
+				<altitude>0</altitude>
+				<heading>-1.765198306548207e-09</heading>
+				<tilt>0</tilt>
+				<range>1012.378535025624</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-4</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>37.96672821266006,48.48535324613125,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian T-90M Damaged/Abandonned</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/tank3.png" height="300" width="auto" /><br><br><a href="https://t.me/killpukin/16520">Russian Counter Attack towards Andriivka went wrong</a>]]></description>
+			<LookAt>
+				<longitude>37.97315399823366</longitude>
+				<latitude>48.50261499839981</latitude>
+				<altitude>0</altitude>
+				<heading>-1.322983525301564e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.000019726783</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-4</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>37.97315399823366,48.50261499839981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian T-90M Damaged/Abandonned</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/tank4.png" height="300" width="auto" /><br><br><a href="https://t.me/killpukin/16520">Russian Counter Attack towards Andriivka went wrong</a>]]></description>
+			<LookAt>
+				<longitude>37.9735077486628</longitude>
+				<latitude>48.5027464998608</latitude>
+				<altitude>0</altitude>
+				<heading>2.008762003500002e-09</heading>
+				<tilt>0</tilt>
+				<range>1001.911587596233</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-4</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>37.9735077486628,48.5027464998608,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian MT-LB Destroyed</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/tank5.png" height="300" width="auto" /><br><br><a href="https://t.me/killpukin/16520">Russian Counter Attack towards Andriivka went wrong</a>]]></description>
+			<LookAt>
+				<longitude>37.97361899431571</longitude>
+				<latitude>48.50280599678679</latitude>
+				<altitude>0</altitude>
+				<heading>-4.257500038271109e-09</heading>
+				<tilt>0</tilt>
+				<range>999.9999941994461</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-4</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>37.97361899431571,48.50280599678679,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian BMP-2 Destroyed</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/tank7.png" height="300" width="auto" /><br><br><a href="https://t.me/killpukin/16520">Russian Counter Attack towards Andriivka went wrong</a>]]></description>
+			<LookAt>
+				<longitude>37.97369898167192</longitude>
+				<latitude>48.50283378454345</latitude>
+				<altitude>0</altitude>
+				<heading>2.270378528823783e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.038911126425</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-4</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>37.97369898167191,48.50283378454345,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian BMP-2 Destroyed</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/tank9.png" height="300" width="auto" /><br><br><a href="https://t.me/lost_warinua/46003">https://t.me/lost_warinua/46003</a>]]></description>
+			<LookAt>
+				<longitude>37.98463999456932</longitude>
+				<latitude>48.50346699911125</latitude>
+				<altitude>0</altitude>
+				<heading>-4.06756685435815e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.000074519516</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-4</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>37.98463999456932,48.50346699911125,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russian BMP-2 Destroyed</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/tank14.png" height="300" width="auto" /><br><br><a href="https://t.me/ButusovPlus/4234">https://t.me/ButusovPlus/4234</a>]]></description>
+			<LookAt>
+				<longitude>38.0086610028596</longitude>
+				<latitude>49.03117000027254</latitude>
+				<altitude>0</altitude>
+				<heading>2.159125906620871e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.000005637224</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-4</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>38.0086610028596,49.03117000027254,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Air Defense Active</name>
+			<description><![CDATA[<a href="https://t.me/voynareal/69009">https://t.me/voynareal/69009</a>]]></description>
+			<LookAt>
+				<longitude>36.80464743803216</longitude>
+				<latitude>46.77600760494576</latitude>
+				<altitude>0</altitude>
+				<heading>-3.407377165312229e-05</heading>
+				<tilt>0</tilt>
+				<range>27758.86981945082</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.80464743803215,46.77600760494576,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Russians Trying To Hiijack Local Government 8/14</name>
+			<description><![CDATA[8/14<br><br>The Moscow regime continues illegal integration of the temporarily occupied territories of Ukraine into its socio-political space. Thus, in the settlement of Svatove (Luhansk oblast), in order to change the leadership of local governments, the occupiers demand that representatives of administrations and village councils resign from their positions of their own will. The occupiers plan to establish so-called “municipalities” to be headed by local collaborators based on the results of fake elections in the occupied territories on the single voting day in russia on September 10.<br><br><a href="https://www.facebook.com/GeneralStaff.ua/posts/pfbid0B26FVjsNKiwMJiovfooiknxA7Bbz2TcdMza2DTQ8RS49Z4zaF9vxrXxF6d4KGLvgl">General Staff</a>]]></description>
+			<LookAt>
+				<longitude>38.1745433072655</longitude>
+				<latitude>49.40954832773464</latitude>
+				<altitude>0</altitude>
+				<heading>1.05519500259479</heading>
+				<tilt>5.565993308582071</tilt>
+				<range>9022.254371226496</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_cop</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>38.15679279241872,49.4126290671325,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Airstrike</name>
+			<description><![CDATA[the adversary launched air strikes in the vicinities of Ivanivka, Zahryzove (Kharkiv oblast), and Stel’makhivka (Luhansk oblast).<br><br><a href="https://www.facebook.com/GeneralStaff.ua/posts/pfbid0Z2eaXxc5scumdrsY6qR1fFaTuwdZBoZ7b2pk71b6aAzYafR9JDL665p2Y4pux2MWl">General Staff</a>]]></description>
+			<LookAt>
+				<longitude>37.93435495469741</longitude>
+				<latitude>49.47903493781773</latitude>
+				<altitude>0</altitude>
+				<heading>2.516672664103618</heading>
+				<tilt>0.7102298245721443</tilt>
+				<range>20917.35438603877</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon-100</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>37.89925764292292,49.46980206189625,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ukrainian Shelling</name>
+			<description><![CDATA[<img src="https://map.ukrdailyupdate.com/kmz/2023-08-14/pic/shelling8.png" height="300" width="auto" /><br><br><a href="https://t.me/operativnoZSU/110005">The 47th Separate Artillery Brigade inflicted fire damage on the enemy's ammunition delivery vehicle, which was discovered by aerial reconnaissance of the 129th OBrTrO.</a>]]></description>
+			<LookAt>
+				<longitude>36.86347400341754</longitude>
+				<latitude>47.65451700219359</latitude>
+				<altitude>0</altitude>
+				<heading>2.525897930823199e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.000012541643</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_shell</styleUrl>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>36.86347400341754,47.65451700219359,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
